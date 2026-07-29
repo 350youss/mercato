@@ -100,6 +100,7 @@ def scrape_all(offline=False, old=None):
 
 def generate(squads):
     logos = {code: load_logo(code) for code, *_ in CLUBS}
+    logos["L1"] = load_logo("L1")   # logo de la compétition Ligue 1 (badge sur la landing page)
     logocss, logocodes = logo_assets(logos)
     meta = {code: {"name": name, "bg": bg, "fg": fg} for code, name, league, slug, cid, bg, fg in CLUBS}
     order = [code for code, *_ in CLUBS]

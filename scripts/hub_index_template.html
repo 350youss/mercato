@@ -44,8 +44,9 @@ main{padding:40px 32px 70px;max-width:1160px;margin:0 auto;position:relative;z-i
   border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:16px;padding:26px 30px;
   transition:all .18s;}
 .l1-card:hover{border-left-color:var(--in);transform:translateY(-2px);box-shadow:0 12px 28px rgba(0,0,0,.4);}
-.l1-card .badge{font-family:'Tanker',sans-serif;font-size:30px;color:var(--accent);flex-shrink:0;
-  background:rgba(74,140,255,.12);border-radius:12px;padding:12px 18px;}
+.l1-card .badge{width:64px;height:64px;display:inline-flex;align-items:center;justify-content:center;
+  font-family:'Tanker',sans-serif;font-size:26px;color:var(--accent);flex-shrink:0;
+  background:rgba(74,140,255,.12);border-radius:12px;}
 .l1-card .txt{flex:1;}
 .l1-card .txt .name{font-family:'Tanker',sans-serif;font-size:24px;color:#fff;text-transform:uppercase;}
 .l1-card .txt .sub{font-size:13px;color:var(--sub);margin-top:4px;}
@@ -58,7 +59,7 @@ main{padding:40px 32px 70px;max-width:1160px;margin:0 auto;position:relative;z-i
 .club-card:hover{border-color:var(--accent);transform:translateY(-3px);background:var(--s2);}
 .crest{position:relative;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0;
   width:64px;height:64px;border-radius:16px;font-family:'Tanker',sans-serif;font-size:20px;letter-spacing:0;}
-.crest.has-logo{background-color:#fff !important;color:transparent !important;background-size:76% !important;
+.crest.has-logo{background-color:transparent !important;color:transparent !important;background-size:contain !important;
   background-position:center !important;background-repeat:no-repeat !important;}
 .club-card .cname{font-size:14px;font-weight:800;color:#fff;line-height:1.2;}
 .club-card .cleague{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);}
@@ -90,7 +91,7 @@ footer{max-width:1160px;margin:0 auto;padding:0 32px 50px;color:var(--muted);fon
   <section class="cat">
     <div class="cat-h"><span class="t">Championnat</span><span class="d">récap mercato complet</span></div>
     <a class="l1-card" href="__L1_URL__" target="_blank" rel="noopener">
-      <span class="badge">L1</span>
+      <span class="badge crest" id="l1Badge">L1</span>
       <span class="txt">
         <span class="name">Ligue 1 · 2026/27</span>
         <span class="sub">Mercato complet des 18 clubs — arrivées, départs, effectifs & compos</span>
@@ -118,6 +119,11 @@ function crest(c){
   const has=LOGO_CODES.indexOf(c.code)>=0;
   const style=has?'':`background:${c.bg};color:${c.fg}`;
   return `<span class="crest${has?' has-logo l-'+c.code:''}" style="${style}">${esc(c.code)}</span>`;
+}
+if(LOGO_CODES.indexOf('L1')>=0){
+  const b=document.getElementById('l1Badge');
+  b.classList.add('has-logo','l-L1');
+  b.textContent='';
 }
 document.getElementById('clubsGrid').innerHTML=CLUBS.map(c=>
   `<a class="club-card" href="equipe.html?c=${esc(c.code)}">
