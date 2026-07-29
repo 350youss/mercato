@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Compos & Effectifs · 350</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://api.fontshare.com/v2/css?f[]=tanker@400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0a;--s1:#111113;--s2:#161618;--s3:#1c1c1f;
+  --in:#34c77b;--accent:#4a8cff;--gold:#c9a84c;--out:#ff4d6d;
+  --txt:#f0f0f0;--sub:#9a9a9a;--muted:#5a5a5a;--faint:#3a3a3a;--line:rgba(255,255,255,.08);
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:var(--bg);color:var(--txt);font-family:'Inter',sans-serif;min-height:100vh;overflow-x:hidden;}
+a{color:inherit;text-decoration:none;}
+body::before{
+  content:'';position:fixed;inset:-50%;pointer-events:none;z-index:0;opacity:.02;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='72'%3E%3Ctext x='4' y='44' font-family='Inter,Arial' font-size='28' font-weight='800' fill='%23fff'%3E350%3C/text%3E%3C/svg%3E");
+  background-size:150px 90px;transform:rotate(-22deg);width:200%;height:200%;
+}
+.bleed-bar{height:6px;background:linear-gradient(90deg,#34c77b 0%,#4a8cff 40%,#ff4d6d 70%,#34c77b 100%);background-size:200% 100%;animation:bar 9s linear infinite;position:relative;z-index:5;}
+@keyframes bar{to{background-position:200% 0;}}
+
+.wrap{position:relative;z-index:10;max-width:1160px;margin:0 auto;padding:0 32px;}
+header{padding-top:48px;}
+.kicker{font-weight:700;font-size:12px;letter-spacing:.32em;text-transform:uppercase;color:var(--muted);}
+.hero h1{font-family:'Tanker',sans-serif;font-weight:400;font-size:64px;line-height:.92;letter-spacing:.01em;color:#fff;text-transform:uppercase;margin-top:10px;}
+.hero .accent{color:var(--accent);}
+.note{margin-top:14px;font-size:14px;color:var(--sub);max-width:560px;line-height:1.5;}
+
+main{padding:40px 32px 70px;max-width:1160px;margin:0 auto;position:relative;z-index:10;}
+
+.cat{margin-top:8px;margin-bottom:52px;}
+.cat-h{display:flex;align-items:baseline;gap:12px;margin-bottom:18px;}
+.cat-h .t{font-family:'Tanker',sans-serif;font-size:26px;text-transform:uppercase;color:#fff;}
+.cat-h .d{font-size:13px;color:var(--muted);}
+
+/* CARTE LIGUE 1 (lien externe) */
+.l1-card{display:flex;align-items:center;gap:20px;background:linear-gradient(135deg,var(--s1),var(--s2));
+  border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:16px;padding:26px 30px;
+  transition:all .18s;}
+.l1-card:hover{border-left-color:var(--in);transform:translateY(-2px);box-shadow:0 12px 28px rgba(0,0,0,.4);}
+.l1-card .badge{font-family:'Tanker',sans-serif;font-size:30px;color:var(--accent);flex-shrink:0;
+  background:rgba(74,140,255,.12);border-radius:12px;padding:12px 18px;}
+.l1-card .txt{flex:1;}
+.l1-card .txt .name{font-family:'Tanker',sans-serif;font-size:24px;color:#fff;text-transform:uppercase;}
+.l1-card .txt .sub{font-size:13px;color:var(--sub);margin-top:4px;}
+.l1-card .go{font-size:13px;font-weight:800;color:var(--accent);white-space:nowrap;}
+
+/* GRILLE GRANDS CLUBS */
+.clubs-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;}
+.club-card{display:flex;flex-direction:column;align-items:center;gap:12px;background:var(--s1);
+  border:1px solid var(--line);border-radius:14px;padding:24px 16px;text-align:center;transition:all .15s;}
+.club-card:hover{border-color:var(--accent);transform:translateY(-3px);background:var(--s2);}
+.crest{position:relative;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0;
+  width:64px;height:64px;border-radius:16px;font-family:'Tanker',sans-serif;font-size:20px;letter-spacing:0;}
+.crest.has-logo{background-color:#fff !important;color:transparent !important;background-size:76% !important;
+  background-position:center !important;background-repeat:no-repeat !important;}
+.club-card .cname{font-size:14px;font-weight:800;color:#fff;line-height:1.2;}
+.club-card .cleague{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);}
+
+footer{max-width:1160px;margin:0 auto;padding:0 32px 50px;color:var(--muted);font-size:11.5px;line-height:1.6;position:relative;z-index:10;}
+
+@media(max-width:700px){
+  .wrap,main,footer{padding-left:18px;padding-right:18px;}
+  .hero h1{font-size:42px;}
+  .l1-card{flex-wrap:wrap;padding:20px;}
+  .clubs-grid{grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;}
+  .club-card{padding:18px 10px;}
+  .crest{width:52px;height:52px;font-size:16px;}
+}
+</style>
+<style></style>
+</head>
+<body>
+<div class="bleed-bar"></div>
+<div class="wrap">
+  <header>
+    <div class="kicker">Compos & Effectifs · Saison 2026/27</div>
+    <div class="hero"><h1>Grands <span class="accent">Clubs</span></h1></div>
+    <p class="note">Effectif à jour et terrain interactif pour composer ta compo, club par club. Choisis un championnat ou un grand club européen ci-dessous.</p>
+  </header>
+</div>
+
+<main>
+  <section class="cat">
+    <div class="cat-h"><span class="t">Championnat</span><span class="d">récap mercato complet</span></div>
+    <a class="l1-card" href="https://350youss.github.io/mercatol1/" target="_blank" rel="noopener">
+      <span class="badge">L1</span>
+      <span class="txt">
+        <span class="name">Ligue 1 · 2026/27</span>
+        <span class="sub">Mercato complet des 18 clubs — arrivées, départs, effectifs & compos</span>
+      </span>
+      <span class="go">Ouvrir →</span>
+    </a>
+  </section>
+
+  <section class="cat">
+    <div class="cat-h"><span class="t">Grands clubs européens</span><span class="d">effectif & compo uniquement</span></div>
+    <div class="clubs-grid" id="clubsGrid"></div>
+  </section>
+</main>
+
+<footer>
+  Récap visuel — <b>350</b>. Effectifs indicatifs, mis à jour automatiquement.
+  <div style="margin-top:8px">Dernière actualisation : <b style="color:var(--in)">29/07/2026 à 17h38</b></div>
+</footer>
+
+<script>
+const CLUBS=[{"code": "FCB", "name": "FC Barcelone", "league": "Liga", "bg": "#a50044", "fg": "#ffed02"}, {"code": "RMA", "name": "Real Madrid", "league": "Liga", "bg": "#fefefe", "fg": "#febe10"}, {"code": "ATM", "name": "Atlético de Madrid", "league": "Liga", "bg": "#ce3524", "fg": "#fff"}, {"code": "MCI", "name": "Manchester City", "league": "Premier League", "bg": "#6cabdd", "fg": "#1c2c5b"}, {"code": "ARS", "name": "Arsenal FC", "league": "Premier League", "bg": "#ef0107", "fg": "#fff"}, {"code": "LIV", "name": "FC Liverpool", "league": "Premier League", "bg": "#c8102e", "fg": "#fff"}, {"code": "CHE", "name": "Chelsea FC", "league": "Premier League", "bg": "#034694", "fg": "#fff"}, {"code": "MUN", "name": "Manchester United", "league": "Premier League", "bg": "#da291c", "fg": "#fff"}, {"code": "TOT", "name": "Tottenham Hotspur", "league": "Premier League", "bg": "#132257", "fg": "#fff"}, {"code": "AVL", "name": "Aston Villa", "league": "Premier League", "bg": "#670e36", "fg": "#95bfe5"}, {"code": "BAY", "name": "Bayern Munich", "league": "Bundesliga", "bg": "#dc052d", "fg": "#fff"}, {"code": "BVB", "name": "Borussia Dortmund", "league": "Bundesliga", "bg": "#fde100", "fg": "#000"}, {"code": "JUV", "name": "Juventus Turin", "league": "Serie A", "bg": "#000", "fg": "#fff"}, {"code": "INT", "name": "Inter Milan", "league": "Serie A", "bg": "#010e80", "fg": "#f7b900"}, {"code": "MIL", "name": "AC Milan", "league": "Serie A", "bg": "#fb090b", "fg": "#000"}, {"code": "NAP", "name": "SSC Napoli", "league": "Serie A", "bg": "#12a2d4", "fg": "#fff"}];
+const LOGO_CODES=[];
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+function crest(c){
+  const has=LOGO_CODES.indexOf(c.code)>=0;
+  const style=has?'':`background:${c.bg};color:${c.fg}`;
+  return `<span class="crest${has?' has-logo l-'+c.code:''}" style="${style}">${esc(c.code)}</span>`;
+}
+document.getElementById('clubsGrid').innerHTML=CLUBS.map(c=>
+  `<a class="club-card" href="equipe.html?c=${esc(c.code)}">
+     ${crest(c)}
+     <span class="cname">${esc(c.name)}</span>
+     <span class="cleague">${esc(c.league)}</span>
+   </a>`).join('');
+</script>
+</body>
+</html>
