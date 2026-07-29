@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-29T20:52:30",
- "sig": "269c288f453d7dcd7a1f9640816f1f46",
+ "updated": "2026-07-29T21:01:27",
+ "sig": "ca6064cfd755c9436908798d8ddf90ff",
  "squads": {
   "FCB": [
    {
@@ -2888,14 +2888,6 @@
     "grp": "MID",
     "age": 32,
     "val": 6.0
-   },
-   {
-    "n": "",
-    "p": "Connor Krempicki",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 31,
-    "val": 0.3
    },
    {
     "n": "28",
