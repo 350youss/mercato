@@ -130,14 +130,27 @@ def generate(squads):
     open(OUT_INDEX, "w", encoding="utf-8").write(out2)
     print(f"✓ {OUT_INDEX} régénéré")
 
+def signature(squads):
+    """empreinte des DONNÉES (hors horodatage) pour détecter un vrai changement"""
+    import hashlib
+    canon = {code: sorted([[p.get("n",""), p["p"], p["pos"], p["val"]] for p in pl])
+             for code, pl in squads.items()}
+    return hashlib.md5(json.dumps(canon, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
+
 def main():
     offline = "--offline" in sys.argv
     print(f"Scrape grands clubs {'(cache)' if offline else '(en ligne)'}\n")
     old = load_state()
+    old_sig = old.get("sig")
     squads = scrape_all(offline, old)
-    json.dump({"updated": datetime.now().isoformat(timespec="seconds"), "squads": squads},
+    sig = signature(squads)
+    json.dump({"updated": datetime.now().isoformat(timespec="seconds"), "sig": sig, "squads": squads},
               open(STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     generate(squads)
+
+    changed = (sig != old_sig)
+    open(os.path.join(DATA_DIR, ".push"), "w", encoding="utf-8").write("1" if changed else "0")
+    print("→ Données " + ("MODIFIÉES : publication." if changed else "inchangées : pas de publication."))
 
 if __name__ == "__main__":
     main()
