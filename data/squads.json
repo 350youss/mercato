@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-30T18:00:32",
- "sig": "d09132e7089dfc3ec6f96d7ead13d082",
+ "updated": "2026-07-30T21:02:11",
+ "sig": "3b5fd69600bf09593757b24f505eb502",
  "squads": {
   "FCB": [
    {
@@ -1930,7 +1930,7 @@
     "val": 1.5
    },
    {
-    "n": "",
+    "n": "11",
     "p": "Marcus Rashford",
     "pos": "AiG",
     "grp": "ATT",
@@ -2632,7 +2632,7 @@
     "val": 40.0
    },
    {
-    "n": "30",
+    "n": "32",
     "p": "Felipe Chávez",
     "pos": "MC",
     "grp": "MID",
@@ -3212,6 +3212,14 @@
     "grp": "DEF",
     "age": 31,
     "val": 17.0
+   },
+   {
+    "n": "",
+    "p": "John Stones",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 32,
+    "val": 12.0
    },
    {
     "n": "",
