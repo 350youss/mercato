@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-29T21:01:27",
- "sig": "ca6064cfd755c9436908798d8ddf90ff",
+ "updated": "2026-07-30T15:01:39",
+ "sig": "61d3222f60598d48a34339873e0d1540",
  "squads": {
   "FCB": [
    {
@@ -1464,6 +1464,14 @@
     "val": 0.5
    },
    {
+    "n": "",
+    "p": "Maxence Lacroix",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 26,
+    "val": 50.0
+   },
+   {
     "n": "6",
     "p": "Levi Colwill",
     "pos": "DC",
@@ -1730,6 +1738,14 @@
     "val": 35.0
    },
    {
+    "n": "40",
+    "p": "Radek Vítek",
+    "pos": "GdB",
+    "grp": "GK",
+    "age": 22,
+    "val": 6.0
+   },
+   {
     "n": "1",
     "p": "Altay Bayındır",
     "pos": "GdB",
@@ -1800,14 +1816,6 @@
     "grp": "DEF",
     "age": 33,
     "val": 8.0
-   },
-   {
-    "n": "33",
-    "p": "Tyler Fredricson",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 21,
-    "val": 3.0
    },
    {
     "n": "13",
@@ -2502,14 +2510,6 @@
     "grp": "GK",
     "age": 37,
     "val": 0.5
-   },
-   {
-    "n": "48",
-    "p": "Leon Klanac",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 19,
-    "val": 0.15
    },
    {
     "n": "2",
@@ -3492,7 +3492,7 @@
     "p": "Ardon Jashari",
     "pos": "MDC",
     "grp": "MID",
-    "age": 23,
+    "age": 24,
     "val": 25.0
    },
    {
