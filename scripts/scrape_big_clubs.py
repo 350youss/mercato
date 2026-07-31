@@ -35,6 +35,7 @@ LOGOS_DIR = os.path.join(OUT_ROOT, "logos")
 DATA_DIR  = os.path.join(OUT_ROOT, "data")
 STATE     = os.path.join(DATA_DIR, "squads.json")
 L1_URL    = "https://350youss.github.io/mercatol1/"
+L2_URL    = "https://350youss.github.io/mercatol2/"
 os.makedirs(LOGOS_DIR, exist_ok=True)
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -127,6 +128,7 @@ def generate(squads):
             .replace("/*__LOGOCODES__*/[]", json.dumps(logocodes))
             .replace("/*__LOGOCSS__*/", logocss)
             .replace("__L1_URL__", L1_URL)
+            .replace("__L2_URL__", L2_URL)
             .replace("__UPDATED__", updated))
     open(OUT_INDEX, "w", encoding="utf-8").write(out2)
     print(f"✓ {OUT_INDEX} régénéré")
