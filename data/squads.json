@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31T00:00:35",
- "sig": "5ca589c37d0d59bb243e9c844883c736",
+ "updated": "2026-07-31T15:00:34",
+ "sig": "fd274a692048de7a9c70cadd9c21c7fc",
  "squads": {
   "FCB": [
    {
@@ -3856,14 +3856,6 @@
     "grp": "ATT",
     "age": 27,
     "val": 22.0
-   },
-   {
-    "n": "",
-    "p": "Emanuele Rao",
-    "pos": "AiG",
-    "grp": "ATT",
-    "age": 20,
-    "val": 6.0
    },
    {
     "n": "7",
