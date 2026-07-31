@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31T18:31:18",
- "sig": "fd274a692048de7a9c70cadd9c21c7fc",
+ "updated": "2026-07-31T21:00:48",
+ "sig": "4d435a33ee9f0db1a7ef29f28d508b2a",
  "squads": {
   "FCB": [
    {
@@ -640,7 +640,7 @@
     "val": 28.0
    },
    {
-    "n": "",
+    "n": "15",
     "p": "Thomas Lemar",
     "pos": "MO",
     "grp": "MID",
