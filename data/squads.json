@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31T21:00:48",
- "sig": "4d435a33ee9f0db1a7ef29f28d508b2a",
+ "updated": "2026-08-01T14:05:51",
+ "sig": "b7b3c4a8091299d48ccdd30b47b6f870",
  "squads": {
   "FCB": [
    {
@@ -228,7 +228,7 @@
     "val": 220.0
    },
    {
-    "n": "",
+    "n": "14",
     "p": "Karim Adeyemi",
     "pos": "AiD",
     "grp": "ATT",
@@ -3316,14 +3316,6 @@
     "grp": "MID",
     "age": 32,
     "val": 10.0
-   },
-   {
-    "n": "",
-    "p": "Ebenezer Akinsanmiro",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 21,
-    "val": 7.0
    },
    {
     "n": "22",
