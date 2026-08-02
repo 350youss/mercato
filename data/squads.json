@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-01T14:05:51",
- "sig": "b7b3c4a8091299d48ccdd30b47b6f870",
+ "updated": "2026-08-03T00:00:35",
+ "sig": "8e426e1b7fea6e0122673e792e2417fc",
  "squads": {
   "FCB": [
    {
@@ -112,7 +112,7 @@
     "p": "Héctor Fort",
     "pos": "ArD",
     "grp": "DEF",
-    "age": 19,
+    "age": 20,
     "val": 12.0
    },
    {
@@ -220,6 +220,14 @@
     "val": 70.0
    },
    {
+    "n": "",
+    "p": "Jesse Bisiwu",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 18,
+    "val": 0.8
+   },
+   {
     "n": "10",
     "p": "Lamine Yamal",
     "pos": "AiD",
@@ -268,14 +276,6 @@
     "grp": "GK",
     "age": 27,
     "val": 12.0
-   },
-   {
-    "n": "26",
-    "p": "Fran González",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 21,
-    "val": 3.0
    },
    {
     "n": "24",
@@ -350,7 +350,7 @@
     "val": 60.0
    },
    {
-    "n": "",
+    "n": "33",
     "p": "Denzel Dumfries",
     "pos": "ArD",
     "grp": "DEF",
@@ -394,7 +394,7 @@
     "p": "Thiago Pitarch",
     "pos": "MC",
     "grp": "MID",
-    "age": 18,
+    "age": 19,
     "val": 20.0
    },
    {
@@ -466,7 +466,7 @@
     "p": "Brahim Díaz",
     "pos": "AiD",
     "grp": "ATT",
-    "age": 26,
+    "age": 27,
     "val": 35.0
    },
    {
@@ -494,7 +494,7 @@
     "val": 30.0
    },
    {
-    "n": "",
+    "n": "40",
     "p": "Carlos Espí",
     "pos": "AC",
     "grp": "ATT",
@@ -1632,6 +1632,14 @@
     "val": 100.0
    },
    {
+    "n": "",
+    "p": "Valentín Barco",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 22,
+    "val": 40.0
+   },
+   {
     "n": "17",
     "p": "Morgan Rogers",
     "pos": "MO",
@@ -1734,6 +1742,14 @@
     "grp": "ATT",
     "age": 23,
     "val": 4.0
+   },
+   {
+    "n": "",
+    "p": "Danny Welbeck",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 35,
+    "val": 3.0
    }
   ],
   "MUN": [
@@ -2240,7 +2256,7 @@
     "p": "Mohammed Kudus",
     "pos": "AiD",
     "grp": "ATT",
-    "age": 25,
+    "age": 26,
     "val": 50.0
    },
    {
@@ -2516,7 +2532,7 @@
     "p": "Sven Ulreich",
     "pos": "GdB",
     "grp": "GK",
-    "age": 37,
+    "age": 38,
     "val": 0.5
    },
    {
@@ -2640,7 +2656,7 @@
     "val": 40.0
    },
    {
-    "n": "32",
+    "n": "30",
     "p": "Felipe Chávez",
     "pos": "MC",
     "grp": "MID",
@@ -3117,6 +3133,14 @@
    },
    {
     "n": "",
+    "p": "Kerim Alajbegovic",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 18,
+    "val": 25.0
+   },
+   {
+    "n": "",
     "p": "Nico González",
     "pos": "AiG",
     "grp": "ATT",
@@ -3154,6 +3178,14 @@
     "grp": "ATT",
     "age": 26,
     "val": 30.0
+   },
+   {
+    "n": "9",
+    "p": "Randal Kolo Muani",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 27,
+    "val": 20.0
    },
    {
     "n": "18",
@@ -3258,7 +3290,7 @@
     "p": "Aleksandar Stanković",
     "pos": "MDC",
     "grp": "MID",
-    "age": 20,
+    "age": 21,
     "val": 32.0
    },
    {
@@ -3448,7 +3480,7 @@
     "val": 5.0
    },
    {
-    "n": "",
+    "n": "42",
     "p": "Filippo Terracciano",
     "pos": "DC",
     "grp": "DEF",
@@ -3528,7 +3560,7 @@
     "val": 18.0
    },
    {
-    "n": "",
+    "n": "80",
     "p": "Yunus Musah",
     "pos": "MC",
     "grp": "MID",
@@ -3870,7 +3902,7 @@
     "p": "Matteo Politano",
     "pos": "AiD",
     "grp": "ATT",
-    "age": 32,
+    "age": 33,
     "val": 5.0
    },
    {
