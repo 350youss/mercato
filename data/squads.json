@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03T00:00:35",
- "sig": "8e426e1b7fea6e0122673e792e2417fc",
+ "updated": "2026-08-03T15:00:32",
+ "sig": "8128e2dca8962b54b3c4ab7bb682609a",
  "squads": {
   "FCB": [
    {
@@ -2914,6 +2914,14 @@
     "val": 6.0
    },
    {
+    "n": "19",
+    "p": "Konstantinos Karetsas",
+    "pos": "MO",
+    "grp": "MID",
+    "age": 18,
+    "val": 35.0
+   },
+   {
     "n": "28",
     "p": "Justin Lerma",
     "pos": "MO",
@@ -3104,7 +3112,7 @@
     "p": "Fabio Miretti",
     "pos": "MC",
     "grp": "MID",
-    "age": 22,
+    "age": 23,
     "val": 15.0
    },
    {
