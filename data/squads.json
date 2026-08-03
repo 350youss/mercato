@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03T21:00:37",
- "sig": "050e4909fdb0f9f519dd1297080ccddd",
+ "updated": "2026-08-04T00:01:30",
+ "sig": "0ee576db8278b588cc39a3980cf4faff",
  "squads": {
   "FCB": [
    {
@@ -430,14 +430,6 @@
     "val": 22.0
    },
    {
-    "n": "38",
-    "p": "César Palacios",
-    "pos": "MO",
-    "grp": "MID",
-    "age": 21,
-    "val": 7.5
-   },
-   {
     "n": "7",
     "p": "Vinicius Junior",
     "pos": "AiG",
@@ -484,14 +476,6 @@
     "grp": "ATT",
     "age": 20,
     "val": 40.0
-   },
-   {
-    "n": "16",
-    "p": "Gonzalo García",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 22,
-    "val": 30.0
    },
    {
     "n": "40",
@@ -826,7 +810,7 @@
     "val": 28.0
    },
    {
-    "n": "",
+    "n": "78",
     "p": "Issa Kaboré",
     "pos": "ArD",
     "grp": "DEF",
@@ -1624,14 +1608,6 @@
     "val": 15.0
    },
    {
-    "n": "",
-    "p": "Jordan Henderson",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 36,
-    "val": 1.2
-   },
-   {
     "n": "8",
     "p": "Enzo Fernández",
     "pos": "MC",
@@ -1646,6 +1622,14 @@
     "grp": "MID",
     "age": 22,
     "val": 40.0
+   },
+   {
+    "n": "",
+    "p": "Jordan Henderson",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 36,
+    "val": 1.2
    },
    {
     "n": "17",
@@ -2236,19 +2220,19 @@
     "val": 17.0
    },
    {
-    "n": "",
-    "p": "Mikey Moore",
-    "pos": "AiG",
-    "grp": "ATT",
-    "age": 18,
-    "val": 18.0
-   },
-   {
     "n": "28",
     "p": "Wilson Odobert",
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
+    "val": 18.0
+   },
+   {
+    "n": "47",
+    "p": "Mikey Moore",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 18,
     "val": 18.0
    },
    {
@@ -2346,7 +2330,7 @@
     "p": "Modou Kéba Cissé",
     "pos": "DC",
     "grp": "DEF",
-    "age": 20,
+    "age": 21,
     "val": 6.0
    },
    {
@@ -3782,7 +3766,7 @@
     "p": "Giovanni Di Lorenzo",
     "pos": "ArD",
     "grp": "DEF",
-    "age": 32,
+    "age": 33,
     "val": 7.5
    },
    {
