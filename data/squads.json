@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03T17:40:21",
- "sig": "8128e2dca8962b54b3c4ab7bb682609a",
+ "updated": "2026-08-03T18:00:37",
+ "sig": "28f5ec2eb2ac58570891ed9b280bd8be",
  "squads": {
   "FCB": [
    {
@@ -1624,6 +1624,14 @@
     "val": 15.0
    },
    {
+    "n": "",
+    "p": "Jordan Henderson",
+    "pos": "MDC",
+    "grp": "MID",
+    "age": 36,
+    "val": 1.2
+   },
+   {
     "n": "8",
     "p": "Enzo Fernández",
     "pos": "MC",
@@ -3124,14 +3132,6 @@
     "val": 4.0
    },
    {
-    "n": "17",
-    "p": "Vasilije Adžić",
-    "pos": "MO",
-    "grp": "MID",
-    "age": 20,
-    "val": 8.0
-   },
-   {
     "n": "10",
     "p": "Kenan Yıldız",
     "pos": "AiG",
@@ -3920,6 +3920,14 @@
     "grp": "ATT",
     "age": 26,
     "val": 4.0
+   },
+   {
+    "n": "",
+    "p": "Mattia Esposito",
+    "pos": "DA",
+    "grp": "MID",
+    "age": 18,
+    "val": 0.5
    },
    {
     "n": "",
