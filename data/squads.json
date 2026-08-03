@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03T18:32:05",
- "sig": "28f5ec2eb2ac58570891ed9b280bd8be",
+ "updated": "2026-08-03T21:00:37",
+ "sig": "050e4909fdb0f9f519dd1297080ccddd",
  "squads": {
   "FCB": [
    {
@@ -3066,14 +3066,6 @@
     "grp": "DEF",
     "age": 29,
     "val": 14.0
-   },
-   {
-    "n": "25",
-    "p": "João Mário",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 26,
-    "val": 8.0
    },
    {
     "n": "5",
