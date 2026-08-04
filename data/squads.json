@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04T15:01:11",
- "sig": "f3fe6831e1d82639a6e588ecac421bd1",
+ "updated": "2026-08-04T18:01:25",
+ "sig": "401981592f7739e95b4e5f94c6fe782c",
  "squads": {
   "FCB": [
    {
@@ -3888,14 +3888,6 @@
     "grp": "ATT",
     "age": 26,
     "val": 4.0
-   },
-   {
-    "n": "",
-    "p": "Mattia Esposito",
-    "pos": "DA",
-    "grp": "MID",
-    "age": 18,
-    "val": 0.5
    },
    {
     "n": "",
