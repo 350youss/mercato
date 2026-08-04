@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04T12:02:00",
- "sig": "e381966bfe3e0184e55f64efdc18327c",
+ "updated": "2026-08-04T15:01:11",
+ "sig": "f3fe6831e1d82639a6e588ecac421bd1",
  "squads": {
   "FCB": [
    {
@@ -1672,7 +1672,7 @@
     "val": 60.0
    },
    {
-    "n": "",
+    "n": "47",
     "p": "Geovany Quenda",
     "pos": "AiD",
     "grp": "ATT",
@@ -1728,7 +1728,7 @@
     "val": 4.0
    },
    {
-    "n": "",
+    "n": "18",
     "p": "Danny Welbeck",
     "pos": "AC",
     "grp": "ATT",
