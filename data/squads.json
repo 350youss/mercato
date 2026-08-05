@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-05T12:02:51",
- "sig": "acdb2c30c5000c38906888b6ebc2173b",
+ "updated": "2026-08-05T15:02:27",
+ "sig": "5fa5d0ea75f4c2124209c26f63cbb0e9",
  "squads": {
   "FCB": [
    {
@@ -2492,6 +2492,14 @@
     "grp": "ATT",
     "age": 28,
     "val": 18.0
+   },
+   {
+    "n": "39",
+    "p": "Brian Madjo",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 17,
+    "val": 12.0
    }
   ],
   "BAY": [
