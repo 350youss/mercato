@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04T18:01:25",
- "sig": "401981592f7739e95b4e5f94c6fe782c",
+ "updated": "2026-08-05T12:02:51",
+ "sig": "acdb2c30c5000c38906888b6ebc2173b",
  "squads": {
   "FCB": [
    {
@@ -160,7 +160,7 @@
     "p": "Gavi",
     "pos": "MC",
     "grp": "MID",
-    "age": 21,
+    "age": 22,
     "val": 30.0
    },
    {
@@ -596,7 +596,7 @@
     "p": "Obed Vargas",
     "pos": "MC",
     "grp": "MID",
-    "age": 20,
+    "age": 21,
     "val": 10.0
    },
    {
@@ -3728,14 +3728,6 @@
     "grp": "DEF",
     "age": 19,
     "val": 0.25
-   },
-   {
-    "n": "3",
-    "p": "Miguel Gutiérrez",
-    "pos": "ArG",
-    "grp": "DEF",
-    "age": 25,
-    "val": 22.0
    },
    {
     "n": "17",
