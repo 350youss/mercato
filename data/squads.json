@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-05T15:02:27",
- "sig": "5fa5d0ea75f4c2124209c26f63cbb0e9",
+ "updated": "2026-08-05T18:01:17",
+ "sig": "0dc2a48bf6ea818f52f72457e7804d95",
  "squads": {
   "FCB": [
    {
@@ -1366,7 +1366,7 @@
     "val": 60.0
    },
    {
-    "n": "",
+    "n": "23",
     "p": "Víctor Muñoz",
     "pos": "AiG",
     "grp": "ATT",
