@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-06T03:00:31",
- "sig": "de0685e75ffec6c8b5c6aea98b2832e1",
+ "updated": "2026-08-09T00:00:30",
+ "sig": "78ee572382f848b104ed599884da4d3f",
  "squads": {
   "FCB": [
    {
@@ -414,7 +414,7 @@
     "val": 90.0
    },
    {
-    "n": "",
+    "n": "31",
     "p": "Bernardo Silva",
     "pos": "MO",
     "grp": "MID",
@@ -430,19 +430,19 @@
     "val": 140.0
    },
    {
+    "n": "",
+    "p": "Yan Diomande",
+    "pos": "AiD",
+    "grp": "ATT",
+    "age": 19,
+    "val": 90.0
+   },
+   {
     "n": "11",
     "p": "Rodrygo",
     "pos": "AiD",
     "grp": "ATT",
     "age": 25,
-    "val": 45.0
-   },
-   {
-    "n": "30",
-    "p": "Franco Mastantuono",
-    "pos": "AiD",
-    "grp": "ATT",
-    "age": 18,
     "val": 45.0
    },
    {
@@ -640,14 +640,6 @@
     "val": 40.0
    },
    {
-    "n": "11",
-    "p": "Thiago Almada",
-    "pos": "AiG",
-    "grp": "ATT",
-    "age": 25,
-    "val": 20.0
-   },
-   {
     "n": "12",
     "p": "Carlos Martín",
     "pos": "AiG",
@@ -688,14 +680,6 @@
     "grp": "GK",
     "age": 27,
     "val": 45.0
-   },
-   {
-    "n": "1",
-    "p": "James Trafford",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 23,
-    "val": 25.0
    },
    {
     "n": "13",
@@ -1050,6 +1034,14 @@
     "grp": "MID",
     "age": 27,
     "val": 120.0
+   },
+   {
+    "n": "39",
+    "p": "Bruno Guimarães",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 28,
+    "val": 70.0
    },
    {
     "n": "23",
@@ -1636,7 +1628,7 @@
     "p": "Jamie Gittens",
     "pos": "AiG",
     "grp": "ATT",
-    "age": 21,
+    "age": 22,
     "val": 30.0
    },
    {
@@ -1736,22 +1728,6 @@
     "grp": "GK",
     "age": 24,
     "val": 35.0
-   },
-   {
-    "n": "40",
-    "p": "Radek Vítek",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 22,
-    "val": 6.0
-   },
-   {
-    "n": "1",
-    "p": "Altay Bayındır",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 28,
-    "val": 5.0
    },
    {
     "n": "12",
@@ -1942,7 +1918,7 @@
     "p": "Bryan Mbeumo",
     "pos": "AiD",
     "grp": "ATT",
-    "age": 26,
+    "age": 27,
     "val": 75.0
    },
    {
@@ -2120,7 +2096,7 @@
     "p": "Djed Spence",
     "pos": "ArD",
     "grp": "DEF",
-    "age": 25,
+    "age": 26,
     "val": 40.0
    },
    {
@@ -2354,7 +2330,7 @@
     "p": "Matty Cash",
     "pos": "ArD",
     "grp": "DEF",
-    "age": 28,
+    "age": 29,
     "val": 22.0
    },
    {
@@ -2458,7 +2434,7 @@
     "p": "Leon Bailey",
     "pos": "AiD",
     "grp": "ATT",
-    "age": 28,
+    "age": 29,
     "val": 14.0
    },
    {
@@ -2500,7 +2476,7 @@
     "p": "Jonas Urbig",
     "pos": "GdB",
     "grp": "GK",
-    "age": 22,
+    "age": 23,
     "val": 18.0
    },
    {
@@ -2848,14 +2824,6 @@
     "grp": "DEF",
     "age": 28,
     "val": 25.0
-   },
-   {
-    "n": "2",
-    "p": "Yan Couto",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 24,
-    "val": 17.0
    },
    {
     "n": "48",
