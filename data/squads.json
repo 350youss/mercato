@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-09T00:00:30",
- "sig": "78ee572382f848b104ed599884da4d3f",
+ "updated": "2026-08-09T11:58:53",
+ "sig": "8536de7735ac83a0468dff08ba5231da",
  "squads": {
   "FCB": [
    {
@@ -3486,14 +3486,6 @@
     "grp": "MID",
     "age": 24,
     "val": 22.0
-   },
-   {
-    "n": "",
-    "p": "Ismaël Bennacer",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 28,
-    "val": 8.0
    },
    {
     "n": "12",
