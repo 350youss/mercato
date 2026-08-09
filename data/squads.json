@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-09T21:04:21",
- "sig": "40bd45111211cf9d1c7cb99757fb7853",
+ "updated": "2026-08-10T00:00:34",
+ "sig": "921f6ee41b00ad8d56fcfa0ad08a8327",
  "squads": {
   "FCB": [
    {
@@ -2512,14 +2512,6 @@
     "val": 18.0
    },
    {
-    "n": "28",
-    "p": "Tarek Buchmann",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 21,
-    "val": 0.3
-   },
-   {
     "n": "11",
     "p": "Nathaniel Brown",
     "pos": "ArG",
@@ -2632,20 +2624,20 @@
     "val": 55.0
    },
    {
-    "n": "22",
-    "p": "Arijon Ibrahimovic",
-    "pos": "MO",
-    "grp": "MID",
-    "age": 20,
-    "val": 10.0
-   },
-   {
     "n": "14",
     "p": "Luis Díaz",
     "pos": "AiG",
     "grp": "ATT",
     "age": 29,
     "val": 70.0
+   },
+   {
+    "n": "22",
+    "p": "Arijon Ibrahimovic",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 20,
+    "val": 10.0
    },
    {
     "n": "",
@@ -3726,7 +3718,7 @@
     "p": "Jens Cajuste",
     "pos": "MDC",
     "grp": "MID",
-    "age": 26,
+    "age": 27,
     "val": 7.0
    },
    {
