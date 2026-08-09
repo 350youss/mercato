@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-09T11:58:53",
- "sig": "8536de7735ac83a0468dff08ba5231da",
+ "updated": "2026-08-09T21:04:21",
+ "sig": "40bd45111211cf9d1c7cb99757fb7853",
  "squads": {
   "FCB": [
    {
@@ -1448,14 +1448,6 @@
     "val": 50.0
    },
    {
-    "n": "23",
-    "p": "Trevoh Chalobah",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 27,
-    "val": 40.0
-   },
-   {
     "n": "29",
     "p": "Wesley Fofana",
     "pos": "DC",
@@ -2316,14 +2308,6 @@
     "grp": "DEF",
     "age": 24,
     "val": 30.0
-   },
-   {
-    "n": "12",
-    "p": "Lucas Digne",
-    "pos": "ArG",
-    "grp": "DEF",
-    "age": 33,
-    "val": 6.0
    },
    {
     "n": "2",
