@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10T18:00:43",
- "sig": "24e4e8a4646527293988e23d1ba9279c",
+ "updated": "2026-08-10T21:00:50",
+ "sig": "6a286ffdb738a928fe459d4a9f5c3196",
  "squads": {
   "FCB": [
    {
@@ -50,14 +50,6 @@
     "grp": "DEF",
     "age": 24,
     "val": 35.0
-   },
-   {
-    "n": "4",
-    "p": "Ronald Araujo",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 27,
-    "val": 20.0
    },
    {
     "n": "15",
@@ -1222,6 +1214,14 @@
     "val": 25.0
    },
    {
+    "n": "33",
+    "p": "Ronald Araujo",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 27,
+    "val": 20.0
+   },
+   {
     "n": "4",
     "p": "Virgil van Dijk",
     "pos": "DC",
@@ -2194,14 +2194,6 @@
     "grp": "ATT",
     "age": 18,
     "val": 18.0
-   },
-   {
-    "n": "27",
-    "p": "Manor Solomon",
-    "pos": "AiG",
-    "grp": "ATT",
-    "age": 27,
-    "val": 8.0
    },
    {
     "n": "20",
