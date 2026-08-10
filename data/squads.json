@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10T14:37:21",
- "sig": "c020a0db114952877d028144ec87afbb",
+ "updated": "2026-08-10T15:00:52",
+ "sig": "6b74cf496c43a37b9c56f45141c32cb6",
  "squads": {
   "FCB": [
    {
@@ -278,7 +278,7 @@
     "val": 12.0
    },
    {
-    "n": "24",
+    "n": "4",
     "p": "Dean Huijsen",
     "pos": "DC",
     "grp": "DEF",
@@ -286,7 +286,7 @@
     "val": 60.0
    },
    {
-    "n": "",
+    "n": "16",
     "p": "Ibrahima Konaté",
     "pos": "DC",
     "grp": "DEF",
@@ -294,19 +294,19 @@
     "val": 45.0
    },
    {
+    "n": "2",
+    "p": "Raúl Asencio",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 23,
+    "val": 20.0
+   },
+   {
     "n": "3",
     "p": "Éder Militão",
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 20.0
-   },
-   {
-    "n": "17",
-    "p": "Raúl Asencio",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 23,
     "val": 20.0
    },
    {
@@ -318,7 +318,7 @@
     "val": 6.0
    },
    {
-    "n": "",
+    "n": "17",
     "p": "Marc Cucurella",
     "pos": "ArG",
     "grp": "DEF",
@@ -350,7 +350,7 @@
     "val": 60.0
    },
    {
-    "n": "33",
+    "n": "24",
     "p": "Denzel Dumfries",
     "pos": "ArD",
     "grp": "DEF",
@@ -390,7 +390,7 @@
     "val": 50.0
    },
    {
-    "n": "45",
+    "n": "27",
     "p": "Thiago Pitarch",
     "pos": "MC",
     "grp": "MID",
@@ -422,7 +422,7 @@
     "val": 90.0
    },
    {
-    "n": "31",
+    "n": "20",
     "p": "Bernardo Silva",
     "pos": "MO",
     "grp": "MID",
@@ -438,7 +438,7 @@
     "val": 140.0
    },
    {
-    "n": "",
+    "n": "25",
     "p": "Yan Diomande",
     "pos": "AiD",
     "grp": "ATT",
@@ -478,7 +478,7 @@
     "val": 40.0
    },
    {
-    "n": "40",
+    "n": "19",
     "p": "Carlos Espí",
     "pos": "AC",
     "grp": "ATT",
