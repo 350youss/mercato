@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10T15:00:52",
- "sig": "6b74cf496c43a37b9c56f45141c32cb6",
+ "updated": "2026-08-10T18:00:43",
+ "sig": "24e4e8a4646527293988e23d1ba9279c",
  "squads": {
   "FCB": [
    {
@@ -2605,6 +2605,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
+    "val": 4.0
+   },
+   {
+    "n": "39",
+    "p": "Bara Sapoko Ndiaye",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 18,
     "val": 4.0
    },
    {
