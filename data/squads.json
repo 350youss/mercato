@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-11T18:01:06",
- "sig": "3d2bc1d0435db92b8814d41dbd9c28b0",
+ "updated": "2026-08-11T21:01:27",
+ "sig": "802850d2f34565659be1e3acaf038930",
  "squads": {
   "FCB": [
    {
@@ -808,14 +808,6 @@
     "grp": "MID",
     "age": 24,
     "val": 40.0
-   },
-   {
-    "n": "44",
-    "p": "Kalvin Phillips",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 30,
-    "val": 2.5
    },
    {
     "n": "",
@@ -2640,7 +2632,7 @@
     "val": 10.0
    },
    {
-    "n": "",
+    "n": "28",
     "p": "Bryan Zaragoza",
     "pos": "AiG",
     "grp": "ATT",
