@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-11T12:01:59",
- "sig": "a7b097470c3b1e21fe9c6af143a12c7d",
+ "updated": "2026-08-11T18:01:06",
+ "sig": "3d2bc1d0435db92b8814d41dbd9c28b0",
  "squads": {
   "FCB": [
    {
@@ -3004,6 +3004,14 @@
     "val": 14.0
    },
    {
+    "n": "29",
+    "p": "Arthur Melo",
+    "pos": "MDC",
+    "grp": "MID",
+    "age": 29,
+    "val": 4.0
+   },
+   {
     "n": "19",
     "p": "Khéphren Thuram",
     "pos": "MC",
@@ -3034,14 +3042,6 @@
     "grp": "MID",
     "age": 23,
     "val": 15.0
-   },
-   {
-    "n": "29",
-    "p": "Arthur Melo",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 29,
-    "val": 4.0
    },
    {
     "n": "10",
