@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-12T15:00:31",
- "sig": "be79de56939def1e7545f339d01d883a",
+ "updated": "2026-08-12T21:00:30",
+ "sig": "4d43c0c50ad0ddbf12cf735f97df51ab",
  "squads": {
   "FCB": [
    {
@@ -1722,7 +1722,7 @@
   ],
   "MUN": [
    {
-    "n": "31",
+    "n": "1",
     "p": "Senne Lammens",
     "pos": "GdB",
     "grp": "GK",
@@ -2778,7 +2778,7 @@
     "val": 22.0
    },
    {
-    "n": "",
+    "n": "36",
     "p": "Kauã Prates",
     "pos": "ArG",
     "grp": "DEF",
@@ -3626,7 +3626,7 @@
     "val": 22.0
    },
    {
-    "n": "",
+    "n": "16",
     "p": "Rafa Marín",
     "pos": "DC",
     "grp": "DEF",
@@ -3832,14 +3832,6 @@
     "grp": "ATT",
     "age": 22,
     "val": 12.0
-   },
-   {
-    "n": "9",
-    "p": "Romelu Lukaku",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 33,
-    "val": 6.0
    },
    {
     "n": "",
