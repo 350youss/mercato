@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-11T21:01:27",
- "sig": "802850d2f34565659be1e3acaf038930",
+ "updated": "2026-08-12T03:00:30",
+ "sig": "9afca794e23042245a621effb1ff58fe",
  "squads": {
   "FCB": [
    {
@@ -1696,6 +1696,14 @@
     "val": 4.0
    },
    {
+    "n": "",
+    "p": "Dastan Satpaev",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 18,
+    "val": 3.5
+   },
+   {
     "n": "18",
     "p": "Danny Welbeck",
     "pos": "AC",
@@ -1758,7 +1766,7 @@
     "p": "Matthijs de Ligt",
     "pos": "DC",
     "grp": "DEF",
-    "age": 26,
+    "age": 27,
     "val": 30.0
    },
    {
@@ -2778,6 +2786,14 @@
     "val": 22.0
    },
    {
+    "n": "",
+    "p": "Kauã Prates",
+    "pos": "ArG",
+    "grp": "DEF",
+    "age": 18,
+    "val": 10.0
+   },
+   {
     "n": "42",
     "p": "Almugera Kabar",
     "pos": "ArG",
@@ -3000,7 +3016,7 @@
     "p": "Arthur Melo",
     "pos": "MDC",
     "grp": "MID",
-    "age": 29,
+    "age": 30,
     "val": 4.0
    },
    {
