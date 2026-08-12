@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-12T21:00:30",
- "sig": "4d43c0c50ad0ddbf12cf735f97df51ab",
+ "updated": "2026-08-13T00:00:29",
+ "sig": "a32be8726aa36fd9c89827707685d361",
  "squads": {
   "FCB": [
    {
@@ -2364,6 +2364,14 @@
     "grp": "MID",
     "age": 32,
     "val": 4.0
+   },
+   {
+    "n": "53",
+    "p": "George Hemmings",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 19,
+    "val": 0.8
    },
    {
     "n": "44",
