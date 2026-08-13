@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-13T18:01:11",
- "sig": "4183b694e6fd943df05771e6b0733224",
+ "updated": "2026-08-13T21:00:29",
+ "sig": "833209259c9ea501e0f11caca2f8a44a",
  "squads": {
   "FCB": [
    {
@@ -154,14 +154,6 @@
     "grp": "MID",
     "age": 22,
     "val": 30.0
-   },
-   {
-    "n": "",
-    "p": "Guille Fernández",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 18,
-    "val": 3.0
    },
    {
     "n": "",
@@ -350,14 +342,6 @@
     "val": 25.0
    },
    {
-    "n": "35",
-    "p": "David Jiménez",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 22,
-    "val": 5.0
-   },
-   {
     "n": "14",
     "p": "Aurélien Tchouaméni",
     "pos": "MDC",
@@ -388,14 +372,6 @@
     "grp": "MID",
     "age": 19,
     "val": 20.0
-   },
-   {
-    "n": "37",
-    "p": "Manuel Ángel",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 22,
-    "val": 5.0
    },
    {
     "n": "5",
@@ -2664,14 +2640,6 @@
     "val": 18.0
    },
    {
-    "n": "36",
-    "p": "Armindo Sieb",
-    "pos": "DA",
-    "grp": "MID",
-    "age": 23,
-    "val": 2.5
-   },
-   {
     "n": "9",
     "p": "Harry Kane",
     "pos": "AC",
@@ -3746,7 +3714,7 @@
     "val": 15.0
    },
    {
-    "n": "",
+    "n": "90",
     "p": "Michael Folorunsho",
     "pos": "MC",
     "grp": "MID",
