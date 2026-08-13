@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-13T12:01:02",
- "sig": "b7dbeef1e76315a390ff46467a12882d",
+ "updated": "2026-08-13T15:00:31",
+ "sig": "d329845e5d73fcd209dc1a344c66aecc",
  "squads": {
   "FCB": [
    {
@@ -536,7 +536,7 @@
     "val": 28.0
    },
    {
-    "n": "",
+    "n": "22",
     "p": "Alejandro Grimaldo",
     "pos": "ArG",
     "grp": "DEF",
@@ -624,7 +624,7 @@
     "val": 40.0
    },
    {
-    "n": "22",
+    "n": "11",
     "p": "Ademola Lookman",
     "pos": "AiG",
     "grp": "ATT",
