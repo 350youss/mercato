@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-13T15:00:31",
- "sig": "d329845e5d73fcd209dc1a344c66aecc",
+ "updated": "2026-08-13T18:01:11",
+ "sig": "4183b694e6fd943df05771e6b0733224",
  "squads": {
   "FCB": [
    {
@@ -2020,7 +2020,7 @@
     "val": 50.0
    },
    {
-    "n": "",
+    "n": "5",
     "p": "Marcos Senesi",
     "pos": "DC",
     "grp": "DEF",
