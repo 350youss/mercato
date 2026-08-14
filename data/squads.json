@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-14T12:01:03",
- "sig": "5c5bb3088d8f709560426a1cd3aafd3e",
+ "updated": "2026-08-14T18:00:33",
+ "sig": "9fc229e788552fc73d82aef5821d8ff0",
  "squads": {
   "FCB": [
    {
@@ -712,14 +712,6 @@
     "grp": "DEF",
     "age": 20,
     "val": 10.0
-   },
-   {
-    "n": "68",
-    "p": "Max Alleyne",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 21,
-    "val": 8.0
    },
    {
     "n": "33",
@@ -2156,6 +2148,14 @@
     "val": 17.0
    },
    {
+    "n": "11",
+    "p": "Mathys Tel",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 21,
+    "val": 22.0
+   },
+   {
     "n": "28",
     "p": "Wilson Odobert",
     "pos": "AiG",
@@ -2194,14 +2194,6 @@
     "grp": "ATT",
     "age": 29,
     "val": 25.0
-   },
-   {
-    "n": "11",
-    "p": "Mathys Tel",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 21,
-    "val": 22.0
    },
    {
     "n": "44",
