@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-13T21:00:29",
- "sig": "833209259c9ea501e0f11caca2f8a44a",
+ "updated": "2026-08-14T12:01:03",
+ "sig": "5c5bb3088d8f709560426a1cd3aafd3e",
  "squads": {
   "FCB": [
    {
@@ -2544,14 +2544,6 @@
     "val": 15.0
    },
    {
-    "n": "47",
-    "p": "David Santos Daiber",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 19,
-    "val": 3.0
-   },
-   {
     "n": "8",
     "p": "Tom Bischof",
     "pos": "MC",
@@ -2760,14 +2752,6 @@
     "grp": "DEF",
     "age": 18,
     "val": 10.0
-   },
-   {
-    "n": "42",
-    "p": "Almugera Kabar",
-    "pos": "ArG",
-    "grp": "DEF",
-    "age": 20,
-    "val": 3.0
    },
    {
     "n": "26",
