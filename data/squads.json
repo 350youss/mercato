@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-14T18:00:33",
- "sig": "9fc229e788552fc73d82aef5821d8ff0",
+ "updated": "2026-08-14T21:00:30",
+ "sig": "bea3a82876c5ac0bc86c58fc6f0e76da",
  "squads": {
   "FCB": [
    {
@@ -2366,14 +2366,6 @@
     "val": 16.0
    },
    {
-    "n": "33",
-    "p": "Samuel Iling-Junior",
-    "pos": "AiG",
-    "grp": "ATT",
-    "age": 22,
-    "val": 6.5
-   },
-   {
     "n": "31",
     "p": "Leon Bailey",
     "pos": "AiD",
@@ -3382,14 +3374,6 @@
     "grp": "DEF",
     "age": 28,
     "val": 12.0
-   },
-   {
-    "n": "24",
-    "p": "Zachary Athekame",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 21,
-    "val": 15.0
    },
    {
     "n": "30",
