@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-15T16:30:45",
- "sig": "c18f5769ce20c8c1f6740057bb8a3a21",
+ "updated": "2026-08-15T21:00:28",
+ "sig": "02546e785043f4942b34f2924a6ca1a8",
  "squads": {
   "FCB": [
    {
@@ -1392,7 +1392,7 @@
     "val": 0.5
    },
    {
-    "n": "",
+    "n": "5",
     "p": "Maxence Lacroix",
     "pos": "DC",
     "grp": "DEF",
@@ -1408,7 +1408,7 @@
     "val": 50.0
    },
    {
-    "n": "29",
+    "n": "3",
     "p": "Wesley Fofana",
     "pos": "DC",
     "grp": "DEF",
@@ -1440,7 +1440,7 @@
     "val": 15.0
    },
    {
-    "n": "5",
+    "n": "",
     "p": "Benoît Badiashile",
     "pos": "DC",
     "grp": "DEF",
@@ -1464,7 +1464,7 @@
     "val": 40.0
    },
    {
-    "n": "",
+    "n": "29",
     "p": "Pep Chavarría",
     "pos": "ArG",
     "grp": "DEF",
@@ -1552,7 +1552,7 @@
     "val": 100.0
    },
    {
-    "n": "",
+    "n": "4",
     "p": "Valentín Barco",
     "pos": "MC",
     "grp": "MID",
@@ -2034,14 +2034,6 @@
     "grp": "DEF",
     "age": 26,
     "val": 45.0
-   },
-   {
-    "n": "24",
-    "p": "Djed Spence",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 26,
-    "val": 40.0
    },
    {
     "n": "16",
@@ -3124,6 +3116,14 @@
     "grp": "DEF",
     "age": 27,
     "val": 23.0
+   },
+   {
+    "n": "",
+    "p": "Djed Spence",
+    "pos": "ArD",
+    "grp": "DEF",
+    "age": 26,
+    "val": 40.0
    },
    {
     "n": "5",
