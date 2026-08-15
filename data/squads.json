@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-15T21:00:28",
- "sig": "02546e785043f4942b34f2924a6ca1a8",
+ "updated": "2026-08-16T00:00:28",
+ "sig": "920bc57866cc9160039ed9c5bb881bb6",
  "squads": {
   "FCB": [
    {
@@ -2258,7 +2258,7 @@
     "p": "Amadou Onana",
     "pos": "MDC",
     "grp": "MID",
-    "age": 24,
+    "age": 25,
     "val": 45.0
    },
    {
@@ -3046,7 +3046,7 @@
     "val": 10.0
    },
    {
-    "n": "",
+    "n": "49",
     "p": "Ivan Provedel",
     "pos": "GdB",
     "grp": "GK",
@@ -3086,7 +3086,7 @@
     "val": 17.0
    },
    {
-    "n": "",
+    "n": "6",
     "p": "John Stones",
     "pos": "DC",
     "grp": "DEF",
@@ -3094,7 +3094,7 @@
     "val": 12.0
    },
    {
-    "n": "",
+    "n": "28",
     "p": "Benjamin Pavard",
     "pos": "DC",
     "grp": "DEF",
