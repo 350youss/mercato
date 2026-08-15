@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-14T21:00:30",
- "sig": "bea3a82876c5ac0bc86c58fc6f0e76da",
+ "updated": "2026-08-15T12:00:57",
+ "sig": "f99c327a7d788eaf069e8ea3105f7a6c",
  "squads": {
   "FCB": [
    {
@@ -234,14 +234,6 @@
     "grp": "ATT",
     "age": 20,
     "val": 15.0
-   },
-   {
-    "n": "7",
-    "p": "Ferran Torres",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 26,
-    "val": 55.0
    }
   ],
   "RMA": [
@@ -470,6 +462,14 @@
     "grp": "GK",
     "age": 32,
     "val": 3.0
+   },
+   {
+    "n": "",
+    "p": "Cristian Romero",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 28,
+    "val": 50.0
    },
    {
     "n": "17",
@@ -850,7 +850,7 @@
     "val": 20.0
    },
    {
-    "n": "",
+    "n": "40",
     "p": "Jeremy Monga",
     "pos": "AiG",
     "grp": "ATT",
@@ -1672,14 +1672,6 @@
     "val": 4.0
    },
    {
-    "n": "36",
-    "p": "Dastan Satpaev",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 18,
-    "val": 3.5
-   },
-   {
     "n": "18",
     "p": "Danny Welbeck",
     "pos": "AC",
@@ -1970,14 +1962,6 @@
     "grp": "DEF",
     "age": 26,
     "val": 60.0
-   },
-   {
-    "n": "17",
-    "p": "Cristian Romero",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 28,
-    "val": 50.0
    },
    {
     "n": "37",
@@ -3190,14 +3174,6 @@
     "val": 45.0
    },
    {
-    "n": "16",
-    "p": "Davide Frattesi",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 26,
-    "val": 22.0
-   },
-   {
     "n": "17",
     "p": "Andy Diouf",
     "pos": "MC",
@@ -3578,7 +3554,7 @@
     "val": 10.0
    },
    {
-    "n": "",
+    "n": "5",
     "p": "Luca Marianucci",
     "pos": "DC",
     "grp": "DEF",
@@ -3754,7 +3730,7 @@
     "val": 60.0
    },
    {
-    "n": "",
+    "n": "20",
     "p": "Lorenzo Lucca",
     "pos": "AC",
     "grp": "ATT",
