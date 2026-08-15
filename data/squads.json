@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-15T12:00:57",
- "sig": "f99c327a7d788eaf069e8ea3105f7a6c",
+ "updated": "2026-08-15T16:30:45",
+ "sig": "c18f5769ce20c8c1f6740057bb8a3a21",
  "squads": {
   "FCB": [
    {
@@ -1986,14 +1986,6 @@
     "grp": "DEF",
     "age": 27,
     "val": 20.0
-   },
-   {
-    "n": "35",
-    "p": "Ashley Phillips",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 21,
-    "val": 7.0
    },
    {
     "n": "25",
