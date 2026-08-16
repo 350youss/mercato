@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-16T00:00:28",
- "sig": "920bc57866cc9160039ed9c5bb881bb6",
+ "updated": "2026-08-16T12:40:02",
+ "sig": "551aa89fc544d2ed5d6b83b1e4acc1a6",
  "squads": {
   "FCB": [
    {
@@ -614,6 +614,14 @@
     "grp": "ATT",
     "age": 24,
     "val": 1.5
+   },
+   {
+    "n": "",
+    "p": "Arnau Ortiz",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 24,
+    "val": 1.2
    },
    {
     "n": "20",
@@ -3038,7 +3046,7 @@
   ],
   "INT": [
    {
-    "n": "13",
+    "n": "1",
     "p": "Josep Martínez",
     "pos": "GdB",
     "grp": "GK",
