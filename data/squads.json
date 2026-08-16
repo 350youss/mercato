@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-16T15:00:29",
- "sig": "3cddcf6bd1aeb9420405a70d7104c299",
+ "updated": "2026-08-16T18:00:30",
+ "sig": "2cfb4a870240a5693bee01ad37969d85",
  "squads": {
   "FCB": [
    {
@@ -188,7 +188,7 @@
     "val": 3.0
    },
    {
-    "n": "",
+    "n": "17",
     "p": "Anthony Gordon",
     "pos": "AiG",
     "grp": "ATT",
