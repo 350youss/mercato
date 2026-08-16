@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-16T12:40:02",
- "sig": "551aa89fc544d2ed5d6b83b1e4acc1a6",
+ "updated": "2026-08-16T15:00:29",
+ "sig": "3cddcf6bd1aeb9420405a70d7104c299",
  "squads": {
   "FCB": [
    {
@@ -3746,7 +3746,7 @@
     "val": 12.0
    },
    {
-    "n": "",
+    "n": "15",
     "p": "Walid Cheddira",
     "pos": "AC",
     "grp": "ATT",
