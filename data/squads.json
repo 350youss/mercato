@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-16T18:00:30",
- "sig": "2cfb4a870240a5693bee01ad37969d85",
+ "updated": "2026-08-17T00:00:54",
+ "sig": "153abc60df46a47beff3dcc6b5129216",
  "squads": {
   "FCB": [
    {
@@ -9,7 +9,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 25,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 45,
+     "s": 45,
+     "g": 0,
+     "a": 0,
+     "min": 4042
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -17,7 +27,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 20,
-    "val": 3.0
+    "val": 3.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -25,7 +39,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 36,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 12,
+     "s": 11,
+     "g": 0,
+     "a": 0,
+     "min": 998
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -33,7 +57,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 48,
+     "s": 45,
+     "g": 1,
+     "a": 0,
+     "min": 3977
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -41,7 +75,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 51,
+     "s": 47,
+     "g": 1,
+     "a": 2,
+     "min": 3955
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -49,7 +93,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 51,
+     "s": 38,
+     "g": 0,
+     "a": 1,
+     "min": 3223
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -57,7 +111,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 30,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 18,
+     "s": 4,
+     "g": 1,
+     "a": 0,
+     "min": 543
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -65,7 +129,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 90
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -73,7 +147,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 22,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 42,
+     "s": 31,
+     "g": 0,
+     "a": 3,
+     "min": 2806
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -81,7 +165,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 19,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 4,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 110
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -89,7 +183,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 27,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 47,
+     "s": 39,
+     "g": 3,
+     "a": 4,
+     "min": 3529
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -97,7 +201,11 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 20,
-    "val": 12.0
+    "val": 12.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -105,7 +213,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 19,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 6,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 190
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -113,7 +231,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 19,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 33,
+     "s": 15,
+     "g": 5,
+     "a": 1,
+     "min": 1313
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -121,7 +249,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 22,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 34,
+     "s": 15,
+     "g": 0,
+     "a": 1,
+     "min": 1397
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -129,7 +267,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 19,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 9
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -137,7 +285,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 150.0
+    "val": 150.0,
+    "stats": {
+     "m": 43,
+     "s": 35,
+     "g": 2,
+     "a": 12,
+     "min": 3094
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -145,7 +303,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 29,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 38,
+     "s": 26,
+     "g": 1,
+     "a": 8,
+     "min": 2569
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -153,7 +321,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 13,
+     "s": 8,
+     "g": 0,
+     "a": 1,
+     "min": 700
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -161,7 +339,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 20,
-    "val": 2.5
+    "val": 2.5,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "16",
@@ -169,7 +351,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 48,
+     "s": 34,
+     "g": 13,
+     "a": 17,
+     "min": 3053
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -177,7 +369,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 28,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 49,
+     "s": 31,
+     "g": 8,
+     "a": 10,
+     "min": 2838
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -185,7 +387,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 18,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 45
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -193,7 +405,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 80.0
+    "val": 80.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -201,7 +417,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 29,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 33,
+     "s": 27,
+     "g": 21,
+     "a": 8,
+     "min": 2194
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -209,7 +435,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 18,
-    "val": 0.8
+    "val": 0.8,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -217,7 +447,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 19,
-    "val": 220.0
+    "val": 220.0,
+    "stats": {
+     "m": 45,
+     "s": 42,
+     "g": 24,
+     "a": 18,
+     "min": 3702
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -225,7 +465,11 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 24,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -233,7 +477,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 20,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 28,
+     "s": 10,
+     "g": 2,
+     "a": 4,
+     "min": 872
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "RMA": [
@@ -243,7 +497,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 34,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 45,
+     "s": 45,
+     "g": 0,
+     "a": 2,
+     "min": 4005
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -251,7 +515,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 27,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 12,
+     "s": 11,
+     "g": 0,
+     "a": 0,
+     "min": 1035
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -259,7 +533,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 40,
+     "s": 36,
+     "g": 2,
+     "a": 2,
+     "min": 3038
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "16",
@@ -267,7 +551,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 45.0
+    "val": 45.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -275,7 +563,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 34,
+     "s": 28,
+     "g": 2,
+     "a": 1,
+     "min": 2516
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -283,7 +581,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 21,
+     "s": 18,
+     "g": 2,
+     "a": 1,
+     "min": 1530
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -291,7 +599,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 33,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 26,
+     "s": 24,
+     "g": 1,
+     "a": 0,
+     "min": 2190
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -299,7 +617,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 60.0
+    "val": 60.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -307,7 +629,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 23,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 40,
+     "s": 38,
+     "g": 2,
+     "a": 3,
+     "min": 3402
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -315,7 +647,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 31,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 9,
+     "s": 6,
+     "g": 0,
+     "a": 0,
+     "min": 452
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -323,7 +665,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 27,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 30,
+     "s": 22,
+     "g": 0,
+     "a": 5,
+     "min": 1794
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -331,7 +683,11 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 30,
-    "val": 25.0
+    "val": 25.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -339,7 +695,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 26,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 49,
+     "s": 46,
+     "g": 2,
+     "a": 2,
+     "min": 3941
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -347,7 +713,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 90.0
+    "val": 90.0,
+    "stats": {
+     "m": 49,
+     "s": 47,
+     "g": 9,
+     "a": 13,
+     "min": 4158
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -355,7 +731,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 43,
+     "s": 23,
+     "g": 2,
+     "a": 1,
+     "min": 2199
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "27",
@@ -363,7 +749,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 16,
+     "s": 11,
+     "g": 0,
+     "a": 2,
+     "min": 817
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -371,7 +767,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 160.0
+    "val": 160.0,
+    "stats": {
+     "m": 40,
+     "s": 30,
+     "g": 8,
+     "a": 5,
+     "min": 2718
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -379,7 +785,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 21,
-    "val": 90.0
+    "val": 90.0,
+    "stats": {
+     "m": 51,
+     "s": 40,
+     "g": 6,
+     "a": 14,
+     "min": 3255
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -387,7 +803,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 32,
-    "val": 22.0
+    "val": 22.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -395,7 +815,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 26,
-    "val": 140.0
+    "val": 140.0,
+    "stats": {
+     "m": 53,
+     "s": 48,
+     "g": 22,
+     "a": 14,
+     "min": 4249
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "25",
@@ -403,7 +833,11 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 19,
-    "val": 90.0
+    "val": 90.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -411,7 +845,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 25,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 27,
+     "s": 10,
+     "g": 3,
+     "a": 6,
+     "min": 1106
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -419,7 +863,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 27,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 42,
+     "s": 17,
+     "g": 2,
+     "a": 9,
+     "min": 1666
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -427,7 +881,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 27,
-    "val": 200.0
+    "val": 200.0,
+    "stats": {
+     "m": 44,
+     "s": 40,
+     "g": 42,
+     "a": 7,
+     "min": 3622
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -435,7 +899,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 3,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 99
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -443,7 +917,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 21,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "ATM": [
@@ -453,7 +931,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 33,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 43,
+     "s": 43,
+     "g": 0,
+     "a": 1,
+     "min": 3870
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "1",
@@ -461,7 +949,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 32,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 18,
+     "s": 18,
+     "g": 0,
+     "a": 0,
+     "min": 1650
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -469,7 +967,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 50.0
+    "val": 50.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -477,7 +979,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 49,
+     "s": 45,
+     "g": 3,
+     "a": 3,
+     "min": 4074
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -485,7 +997,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 36,
+     "s": 29,
+     "g": 1,
+     "a": 1,
+     "min": 2775
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -493,7 +1015,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 46,
+     "s": 28,
+     "g": 3,
+     "a": 1,
+     "min": 2845
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -501,7 +1033,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 31,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 25,
+     "s": 16,
+     "g": 1,
+     "a": 1,
+     "min": 1521
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -509,7 +1051,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 47,
+     "s": 39,
+     "g": 0,
+     "a": 7,
+     "min": 3485
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -517,7 +1069,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 30,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -525,7 +1081,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 31,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 49,
+     "s": 44,
+     "g": 4,
+     "a": 6,
+     "min": 3861
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -533,7 +1099,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 27,
-    "val": 45.0
+    "val": 45.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -541,7 +1111,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 55.0
+    "val": 55.0,
+    "stats": {
+     "m": 35,
+     "s": 29,
+     "g": 1,
+     "a": 3,
+     "min": 2452
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -549,7 +1129,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 10,
+     "s": 8,
+     "g": 0,
+     "a": 1,
+     "min": 471
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -557,7 +1147,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 24,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 30,
+     "s": 20,
+     "g": 1,
+     "a": 0,
+     "min": 1715
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -565,7 +1165,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 13,
+     "s": 8,
+     "g": 0,
+     "a": 1,
+     "min": 750
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -573,7 +1183,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 34,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 56,
+     "s": 40,
+     "g": 2,
+     "a": 3,
+     "min": 3610
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -581,7 +1201,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 25,
-    "val": 28.0
+    "val": 28.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -589,7 +1213,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 30,
-    "val": 1.8
+    "val": 1.8,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -597,7 +1225,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 46,
+     "s": 28,
+     "g": 2,
+     "a": 3,
+     "min": 2305
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -605,7 +1243,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 28,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 24,
+     "s": 20,
+     "g": 9,
+     "a": 4,
+     "min": 1381
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -613,7 +1261,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 24,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 66
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -621,7 +1279,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 24,
-    "val": 1.2
+    "val": 1.2,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -629,7 +1291,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 23,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 53,
+     "s": 46,
+     "g": 7,
+     "a": 8,
+     "min": 3803
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -637,7 +1309,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 120.0
+    "val": 120.0,
+    "stats": {
+     "m": 49,
+     "s": 42,
+     "g": 20,
+     "a": 9,
+     "min": 3549
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -645,7 +1327,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 30,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 54,
+     "s": 26,
+     "g": 20,
+     "a": 1,
+     "min": 2816
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "MCI": [
@@ -655,7 +1347,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 27,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 43,
+     "s": 43,
+     "g": 0,
+     "a": 0,
+     "min": 3870
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -663,7 +1365,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 34,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -671,7 +1377,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 34,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -679,7 +1395,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 20,
+     "s": 18,
+     "g": 2,
+     "a": 1,
+     "min": 1690
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -687,7 +1413,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 25,
+     "s": 21,
+     "g": 2,
+     "a": 5,
+     "min": 1866
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -695,7 +1431,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 55.0
+    "val": 55.0,
+    "stats": {
+     "m": 33,
+     "s": 30,
+     "g": 2,
+     "a": 0,
+     "min": 2646
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "45",
@@ -703,7 +1449,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 37,
+     "s": 31,
+     "g": 0,
+     "a": 0,
+     "min": 2817
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -711,7 +1467,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 30.0
+    "val": 30.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -719,7 +1479,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 10.0
+    "val": 10.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "33",
@@ -727,7 +1491,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 21,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 53,
+     "s": 44,
+     "g": 9,
+     "a": 6,
+     "min": 4044
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -735,7 +1509,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 25,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 28,
+     "s": 20,
+     "g": 0,
+     "a": 5,
+     "min": 1605
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "97",
@@ -743,7 +1527,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 23,
-    "val": 2.5
+    "val": 2.5,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "27",
@@ -751,7 +1539,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 27,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 49,
+     "s": 45,
+     "g": 1,
+     "a": 9,
+     "min": 4015
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "82",
@@ -759,7 +1557,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 21,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 22,
+     "s": 12,
+     "g": 2,
+     "a": 3,
+     "min": 1105
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "78",
@@ -767,7 +1575,11 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "16",
@@ -775,7 +1587,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 30,
-    "val": 55.0
+    "val": 55.0,
+    "stats": {
+     "m": 33,
+     "s": 26,
+     "g": 2,
+     "a": 0,
+     "min": 2187
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -783,7 +1605,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 41,
+     "s": 28,
+     "g": 2,
+     "a": 0,
+     "min": 2582
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -791,7 +1623,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 110.0
+    "val": 110.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -799,7 +1635,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 47,
+     "s": 31,
+     "g": 7,
+     "a": 8,
+     "min": 2810
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -807,15 +1653,35 @@
     "pos": "MC",
     "grp": "MID",
     "age": 32,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 9,
+     "s": 2,
+     "g": 0,
+     "a": 1,
+     "min": 242
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
     "p": "Rayan Cherki",
     "pos": "MO",
     "grp": "MID",
-    "age": 22,
-    "val": 90.0
+    "age": 23,
+    "val": 90.0,
+    "stats": {
+     "m": 52,
+     "s": 30,
+     "g": 10,
+     "a": 15,
+     "min": 2854
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "47",
@@ -823,7 +1689,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 26,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 50,
+     "s": 33,
+     "g": 10,
+     "a": 7,
+     "min": 3048
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -831,7 +1707,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 20,
-    "val": 15.0
+    "val": 15.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -839,7 +1719,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 24,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 47,
+     "s": 33,
+     "g": 8,
+     "a": 14,
+     "min": 2962
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "26",
@@ -847,7 +1737,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 22,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 36,
+     "s": 14,
+     "g": 4,
+     "a": 3,
+     "min": 1502
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -855,7 +1755,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 30,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "40",
@@ -863,7 +1767,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 17,
-    "val": 15.0
+    "val": 15.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "42",
@@ -871,7 +1779,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 26,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 27,
+     "s": 24,
+     "g": 11,
+     "a": 3,
+     "min": 2025
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -879,7 +1797,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 220.0
+    "val": 220.0,
+    "stats": {
+     "m": 52,
+     "s": 48,
+     "g": 38,
+     "a": 9,
+     "min": 4144
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -887,7 +1815,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 27,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 36,
+     "s": 16,
+     "g": 8,
+     "a": 3,
+     "min": 1393
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "ARS": [
@@ -897,7 +1835,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 30,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 51,
+     "s": 51,
+     "g": 0,
+     "a": 0,
+     "min": 4620
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -905,7 +1853,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 26,
-    "val": 8.0
+    "val": 8.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -913,7 +1865,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 31,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 12,
+     "s": 12,
+     "g": 0,
+     "a": 0,
+     "min": 1077
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "35",
@@ -921,7 +1883,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 20,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 3
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -929,7 +1901,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 50,
+     "s": 48,
+     "g": 1,
+     "a": 1,
+     "min": 4254
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -937,7 +1919,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 51,
+     "s": 46,
+     "g": 4,
+     "a": 5,
+     "min": 4210
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -945,7 +1937,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 39,
+     "s": 30,
+     "g": 1,
+     "a": 2,
+     "min": 2763
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -953,7 +1955,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 35,
+     "s": 20,
+     "g": 0,
+     "a": 0,
+     "min": 1998
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "33",
@@ -961,7 +1973,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 55.0
+    "val": 55.0,
+    "stats": {
+     "m": 36,
+     "s": 28,
+     "g": 1,
+     "a": 3,
+     "min": 2261
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "49",
@@ -969,7 +1991,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 19,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 36,
+     "s": 19,
+     "g": 0,
+     "a": 4,
+     "min": 1908
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -977,7 +2009,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 44,
+     "s": 37,
+     "g": 4,
+     "a": 7,
+     "min": 3363
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -985,7 +2027,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 28,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 30,
+     "s": 23,
+     "g": 1,
+     "a": 2,
+     "min": 1880
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "36",
@@ -993,7 +2045,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 27,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 57,
+     "s": 48,
+     "g": 6,
+     "a": 3,
+     "min": 4300
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "41",
@@ -1001,7 +2063,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 27,
-    "val": 120.0
+    "val": 120.0,
+    "stats": {
+     "m": 55,
+     "s": 49,
+     "g": 5,
+     "a": 11,
+     "min": 4456
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "39",
@@ -1009,7 +2081,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 70.0
+    "val": 70.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -1017,7 +2093,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 30,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 34,
+     "s": 20,
+     "g": 6,
+     "a": 3,
+     "min": 1906
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -1025,7 +2111,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 27,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 36,
+     "s": 23,
+     "g": 1,
+     "a": 8,
+     "min": 1984
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -1033,7 +2129,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 28,
-    "val": 65.0
+    "val": 65.0,
+    "stats": {
+     "m": 52,
+     "s": 36,
+     "g": 10,
+     "a": 6,
+     "min": 3118
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -1041,7 +2147,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 19,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 12,
+     "s": 4,
+     "g": 1,
+     "a": 0,
+     "min": 515
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -1049,7 +2165,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 26,
-    "val": 18.0
+    "val": 18.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -1057,7 +2177,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 53,
+     "s": 25,
+     "g": 11,
+     "a": 7,
+     "min": 2384
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -1065,7 +2195,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 24,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -1073,7 +2207,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 26,
-    "val": 8.0
+    "val": 8.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -1081,7 +2219,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 24,
-    "val": 110.0
+    "val": 110.0,
+    "stats": {
+     "m": 49,
+     "s": 37,
+     "g": 11,
+     "a": 9,
+     "min": 3256
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -1089,7 +2237,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 24,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 43,
+     "s": 27,
+     "g": 8,
+     "a": 4,
+     "min": 2257
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "56",
@@ -1097,7 +2255,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 16,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 13,
+     "s": 4,
+     "g": 1,
+     "a": 1,
+     "min": 477
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -1105,7 +2273,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 65.0
+    "val": 65.0,
+    "stats": {
+     "m": 55,
+     "s": 40,
+     "g": 21,
+     "a": 3,
+     "min": 3482
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "29",
@@ -1113,7 +2291,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 27,
-    "val": 55.0
+    "val": 55.0,
+    "stats": {
+     "m": 24,
+     "s": 12,
+     "g": 7,
+     "a": 5,
+     "min": 1066
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -1121,7 +2309,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 29,
-    "val": 17.0
+    "val": 17.0,
+    "stats": {
+     "m": 27,
+     "s": 9,
+     "g": 6,
+     "a": 2,
+     "min": 988
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "LIV": [
@@ -1131,7 +2329,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 25,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 20,
+     "s": 19,
+     "g": 0,
+     "a": 0,
+     "min": 1712
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "1",
@@ -1139,7 +2347,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 33,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 35,
+     "s": 35,
+     "g": 0,
+     "a": 0,
+     "min": 3116
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "56",
@@ -1147,7 +2365,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 25,
-    "val": 5.0
+    "val": 5.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -1155,7 +2377,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 4,
+     "s": 3,
+     "g": 0,
+     "a": 0,
+     "min": 302
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "95",
@@ -1163,7 +2395,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 22,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -1171,7 +2413,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 55.0
+    "val": 55.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -1179,7 +2425,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 81
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "33",
@@ -1187,7 +2443,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -1195,7 +2455,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 35,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 55,
+     "s": 55,
+     "g": 8,
+     "a": 3,
+     "min": 4941
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -1203,7 +2473,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 13.0
+    "val": 13.0,
+    "stats": {
+     "m": 33,
+     "s": 16,
+     "g": 0,
+     "a": 2,
+     "min": 1386
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -1211,7 +2491,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 22,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 48,
+     "s": 38,
+     "g": 2,
+     "a": 2,
+     "min": 3218
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -1219,7 +2509,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 30,
-    "val": 4.5
+    "val": 4.5,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -1227,7 +2521,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 35,
+     "s": 23,
+     "g": 2,
+     "a": 2,
+     "min": 1794
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -1235,7 +2539,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 23,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 21,
+     "s": 13,
+     "g": 0,
+     "a": 2,
+     "min": 1209
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "47",
@@ -1243,7 +2557,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 23,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 91
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "38",
@@ -1251,7 +2575,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 50,
+     "s": 47,
+     "g": 6,
+     "a": 6,
+     "min": 4131
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -1259,7 +2593,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 33,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 12,
+     "s": 3,
+     "g": 0,
+     "a": 1,
+     "min": 455
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "43",
@@ -1267,7 +2611,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 21,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -1275,7 +2629,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 27,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 55,
+     "s": 44,
+     "g": 5,
+     "a": 7,
+     "min": 3885
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -1283,7 +2647,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 49,
+     "s": 28,
+     "g": 3,
+     "a": 3,
+     "min": 2850
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "42",
@@ -1291,7 +2665,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 14,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 237
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -1299,7 +2683,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 49,
+     "s": 40,
+     "g": 7,
+     "a": 10,
+     "min": 3504
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -1307,7 +2701,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 25,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 53,
+     "s": 53,
+     "g": 13,
+     "a": 12,
+     "min": 4736
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -1315,7 +2719,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 7
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -1323,7 +2737,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 27,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 52,
+     "s": 41,
+     "g": 9,
+     "a": 6,
+     "min": 3596
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -1331,7 +2755,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 23,
-    "val": 30.0
+    "val": 30.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "73",
@@ -1339,7 +2767,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 17,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 29,
+     "s": 9,
+     "g": 2,
+     "a": 1,
+     "min": 952
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -1347,7 +2785,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 28,
-    "val": 13.0
+    "val": 13.0,
+    "stats": {
+     "m": 36,
+     "s": 5,
+     "g": 3,
+     "a": 3,
+     "min": 726
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -1355,7 +2803,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 85.0
+    "val": 85.0,
+    "stats": {
+     "m": 22,
+     "s": 13,
+     "g": 4,
+     "a": 1,
+     "min": 1033
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -1363,7 +2821,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 24,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 45,
+     "s": 34,
+     "g": 17,
+     "a": 6,
+     "min": 2872
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "CHE": [
@@ -1373,7 +2841,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 21,
-    "val": 25.0
+    "val": 25.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "1",
@@ -1381,7 +2853,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 28,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 50,
+     "s": 49,
+     "g": 0,
+     "a": 1,
+     "min": 4376
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "44",
@@ -1389,7 +2871,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 22,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -1397,7 +2889,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -1405,7 +2907,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 50.0
+    "val": 50.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -1413,7 +2919,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 4,
+     "s": 3,
+     "g": 0,
+     "a": 0,
+     "min": 315
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -1421,7 +2937,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 38,
+     "s": 31,
+     "g": 0,
+     "a": 2,
+     "min": 2724
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -1429,7 +2955,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 6,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 294
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -1437,7 +2973,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 16.0
+    "val": 16.0,
+    "stats": {
+     "m": 29,
+     "s": 17,
+     "g": 2,
+     "a": 0,
+     "min": 1639
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -1445,7 +2991,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 15.0
+    "val": 15.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -1453,7 +3003,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 16,
+     "s": 12,
+     "g": 0,
+     "a": 0,
+     "min": 1071
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -1461,7 +3021,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 10.0
+    "val": 10.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -1469,7 +3033,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 36,
+     "s": 25,
+     "g": 2,
+     "a": 1,
+     "min": 2248
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "29",
@@ -1477,7 +3051,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 10.0
+    "val": 10.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -1485,7 +3063,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 21,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -1493,7 +3081,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 18,
-    "val": 0.0
+    "val": 0.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -1501,7 +3093,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 26,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 39,
+     "s": 29,
+     "g": 2,
+     "a": 7,
+     "min": 2667
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -1509,7 +3111,11 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 21,
-    "val": 35.0
+    "val": 35.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "27",
@@ -1517,7 +3123,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 23,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 49,
+     "s": 38,
+     "g": 3,
+     "a": 5,
+     "min": 3305
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "34",
@@ -1525,7 +3141,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 20,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 30,
+     "s": 14,
+     "g": 2,
+     "a": 0,
+     "min": 1295
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "25",
@@ -1533,7 +3159,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 50,
+     "s": 47,
+     "g": 5,
+     "a": 1,
+     "min": 4169
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "45",
@@ -1541,7 +3177,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 22,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 20,
+     "s": 10,
+     "g": 0,
+     "a": 0,
+     "min": 758
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -1549,7 +3195,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 21,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 5,
+     "s": 0,
+     "g": 0,
+     "a": 2,
+     "min": 109
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -1557,7 +3213,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 54,
+     "s": 49,
+     "g": 15,
+     "a": 7,
+     "min": 4379
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -1565,7 +3231,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -1573,7 +3243,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 36,
-    "val": 1.2
+    "val": 1.2,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -1581,7 +3255,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 24,
-    "val": 110.0
+    "val": 110.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -1589,7 +3267,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 24,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 34,
+     "s": 29,
+     "g": 11,
+     "a": 3,
+     "min": 2443
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -1597,7 +3285,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 22,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 27,
+     "s": 12,
+     "g": 1,
+     "a": 5,
+     "min": 1102
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "43",
@@ -1605,7 +3303,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "41",
@@ -1613,7 +3321,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 19,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 36,
+     "s": 20,
+     "g": 8,
+     "a": 4,
+     "min": 1676
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -1621,7 +3339,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 26,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 52,
+     "s": 43,
+     "g": 10,
+     "a": 10,
+     "min": 3767
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "47",
@@ -1629,7 +3357,11 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 19,
-    "val": 42.0
+    "val": 42.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -1637,7 +3369,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 24,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 50,
+     "s": 42,
+     "g": 20,
+     "a": 9,
+     "min": 3694
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -1645,7 +3387,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 25,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -1653,7 +3399,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 41,
+     "s": 16,
+     "g": 2,
+     "a": 4,
+     "min": 1601
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -1661,7 +3417,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 25.0
+    "val": 25.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "38",
@@ -1669,7 +3429,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 13,
+     "s": 5,
+     "g": 2,
+     "a": 2,
+     "min": 527
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -1677,7 +3447,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -1685,7 +3459,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 35,
-    "val": 3.0
+    "val": 3.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "MUN": [
@@ -1695,7 +3473,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 24,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 33,
+     "s": 33,
+     "g": 0,
+     "a": 0,
+     "min": 2970
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -1703,7 +3491,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 35,
-    "val": 0.2
+    "val": 0.2,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -1711,7 +3503,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 40,
-    "val": 0.1
+    "val": 0.1,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "45",
@@ -1719,7 +3521,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 0.0
+    "val": 0.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -1727,7 +3533,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 33,
+     "s": 19,
+     "g": 0,
+     "a": 2,
+     "min": 1829
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -1735,7 +3551,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 19,
+     "s": 14,
+     "g": 0,
+     "a": 0,
+     "min": 1310
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -1743,7 +3569,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 14,
+     "s": 13,
+     "g": 1,
+     "a": 0,
+     "min": 1215
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "26",
@@ -1751,7 +3587,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 18,
+     "s": 12,
+     "g": 0,
+     "a": 1,
+     "min": 987
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -1759,7 +3605,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 33,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 25,
+     "s": 20,
+     "g": 2,
+     "a": 2,
+     "min": 1756
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -1767,7 +3623,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 21,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 28,
+     "s": 17,
+     "g": 4,
+     "a": 4,
+     "min": 1580
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -1775,7 +3641,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 31,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 38,
+     "s": 38,
+     "g": 1,
+     "a": 1,
+     "min": 3233
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "41",
@@ -1783,7 +3659,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 19,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -1791,7 +3671,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 27,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 36,
+     "s": 31,
+     "g": 1,
+     "a": 3,
+     "min": 2796
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -1799,7 +3689,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 28,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 20,
+     "s": 11,
+     "g": 0,
+     "a": 0,
+     "min": 984
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -1807,7 +3707,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 22,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "25",
@@ -1815,7 +3719,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 25,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 24,
+     "s": 10,
+     "g": 0,
+     "a": 0,
+     "min": 1005
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "43",
@@ -1823,7 +3737,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 22,
-    "val": 5.0
+    "val": 5.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "37",
@@ -1831,7 +3749,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 30,
+     "s": 18,
+     "g": 1,
+     "a": 3,
+     "min": 1806
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -1839,7 +3767,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 29,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "39",
@@ -1847,7 +3779,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 17
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -1855,7 +3797,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 31,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 37,
+     "s": 36,
+     "g": 9,
+     "a": 22,
+     "min": 3203
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -1863,7 +3815,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 27,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 25,
+     "s": 13,
+     "g": 3,
+     "a": 1,
+     "min": 1105
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "38",
@@ -1871,7 +3833,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 19,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 3,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 107
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -1879,7 +3851,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 28,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -1887,7 +3863,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 27,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 34,
+     "s": 31,
+     "g": 12,
+     "a": 3,
+     "min": 2670
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "16",
@@ -1895,7 +3881,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 24,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 33,
+     "s": 28,
+     "g": 2,
+     "a": 4,
+     "min": 2428
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "46",
@@ -1903,7 +3899,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 19,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 4,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 67
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -1911,7 +3917,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 27,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 35,
+     "s": 31,
+     "g": 10,
+     "a": 4,
+     "min": 2683
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -1919,7 +3935,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 32,
+     "s": 19,
+     "g": 12,
+     "a": 1,
+     "min": 1817
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -1927,7 +3953,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 25,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 26,
+     "s": 5,
+     "g": 2,
+     "a": 1,
+     "min": 645
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "TOT": [
@@ -1937,7 +3973,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 43,
+     "s": 42,
+     "g": 0,
+     "a": 0,
+     "min": 3853
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "31",
@@ -1945,7 +3991,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 10,
+     "s": 10,
+     "g": 0,
+     "a": 0,
+     "min": 827
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "39",
@@ -1953,7 +4009,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 37,
-    "val": 0.5
+    "val": 0.5,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "40",
@@ -1961,7 +4021,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 27,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -1969,7 +4039,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 60.0
+    "val": 60.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "37",
@@ -1977,7 +4051,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 45,
+     "s": 45,
+     "g": 7,
+     "a": 1,
+     "min": 3943
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -1985,7 +4069,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 25.0
+    "val": 25.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -1993,7 +4081,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 36,
+     "s": 26,
+     "g": 0,
+     "a": 0,
+     "min": 2328
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "25",
@@ -2001,7 +4099,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "33",
@@ -2009,7 +4117,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 33,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 5,
+     "s": 3,
+     "g": 1,
+     "a": 0,
+     "min": 250
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -2017,7 +4135,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 23,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 28,
+     "s": 17,
+     "g": 0,
+     "a": 1,
+     "min": 1673
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "38",
@@ -2025,7 +4153,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 4,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 144
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -2033,7 +4171,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 32,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -2041,7 +4183,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 26,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 47,
+     "s": 45,
+     "g": 2,
+     "a": 6,
+     "min": 3923
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "16",
@@ -2049,7 +4201,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 26,
-    "val": 80.0
+    "val": 80.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -2057,7 +4213,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 20,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 35,
+     "s": 27,
+     "g": 2,
+     "a": 3,
+     "min": 2262
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -2065,7 +4231,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 29,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 34,
+     "s": 31,
+     "g": 1,
+     "a": 1,
+     "min": 2549
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -2073,7 +4249,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 50.0
+    "val": 50.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -2081,7 +4261,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 20,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 33,
+     "s": 17,
+     "g": 1,
+     "a": 5,
+     "min": 1465
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -2089,7 +4279,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 26,
-    "val": 32.0
+    "val": 32.0,
+    "stats": {
+     "m": 18,
+     "s": 14,
+     "g": 1,
+     "a": 1,
+     "min": 1246
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "29",
@@ -2097,7 +4297,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 37,
+     "s": 22,
+     "g": 2,
+     "a": 4,
+     "min": 2212
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -2105,7 +4315,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 41,
+     "s": 28,
+     "g": 5,
+     "a": 6,
+     "min": 2569
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -2113,7 +4333,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 29,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 3,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 34
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -2121,7 +4351,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 26,
-    "val": 17.0
+    "val": 17.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -2129,7 +4369,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 38,
+     "s": 17,
+     "g": 4,
+     "a": 2,
+     "min": 1688
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -2137,7 +4387,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 33,
+     "s": 18,
+     "g": 2,
+     "a": 5,
+     "min": 1609
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "47",
@@ -2145,7 +4405,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 19,
-    "val": 18.0
+    "val": 18.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -2153,7 +4417,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 26,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 26,
+     "s": 23,
+     "g": 3,
+     "a": 6,
+     "min": 1921
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -2161,7 +4435,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 20,
+     "s": 12,
+     "g": 6,
+     "a": 0,
+     "min": 1160
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -2169,7 +4453,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 29,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 43,
+     "s": 29,
+     "g": 12,
+     "a": 5,
+     "min": 2651
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "44",
@@ -2177,7 +4471,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 22,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 5,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 35
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "AVL": [
@@ -2187,7 +4491,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 33,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 44,
+     "s": 43,
+     "g": 0,
+     "a": 1,
+     "min": 3870
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "40",
@@ -2195,7 +4509,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 35,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 14,
+     "s": 13,
+     "g": 0,
+     "a": 0,
+     "min": 1170
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -2203,7 +4527,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 48,
+     "s": 46,
+     "g": 2,
+     "a": 1,
+     "min": 4170
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -2211,7 +4545,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 36,
+     "s": 33,
+     "g": 0,
+     "a": 1,
+     "min": 2968
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "48",
@@ -2219,7 +4563,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -2227,7 +4575,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 32,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 28,
+     "s": 21,
+     "g": 0,
+     "a": 1,
+     "min": 1784
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -2235,7 +4593,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 33,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 22,
+     "s": 18,
+     "g": 1,
+     "a": 1,
+     "min": 1596
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -2243,7 +4611,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 44,
+     "s": 25,
+     "g": 1,
+     "a": 2,
+     "min": 2336
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -2251,7 +4629,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 29,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 49,
+     "s": 45,
+     "g": 3,
+     "a": 5,
+     "min": 4022
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "32",
@@ -2259,7 +4647,11 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 20,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -2267,7 +4659,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 25,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 38,
+     "s": 32,
+     "g": 2,
+     "a": 0,
+     "min": 2637
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -2275,7 +4677,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 26,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 26,
+     "s": 20,
+     "g": 1,
+     "a": 4,
+     "min": 1714
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "26",
@@ -2283,7 +4695,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 22,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 44,
+     "s": 22,
+     "g": 0,
+     "a": 0,
+     "min": 2084
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "35",
@@ -2291,7 +4713,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -2299,7 +4725,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 31,
-    "val": 13.0
+    "val": 13.0,
+    "stats": {
+     "m": 44,
+     "s": 38,
+     "g": 10,
+     "a": 8,
+     "min": 3029
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -2307,7 +4743,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 32,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 23,
+     "s": 8,
+     "g": 3,
+     "a": 1,
+     "min": 948
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "53",
@@ -2315,7 +4761,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 4,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 71
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "44",
@@ -2323,7 +4779,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 20,
-    "val": 65.0
+    "val": 65.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -2331,7 +4791,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 22,
-    "val": 28.0
+    "val": 28.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -2339,7 +4803,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 29,
-    "val": 16.0
+    "val": 16.0,
+    "stats": {
+     "m": 54,
+     "s": 34,
+     "g": 11,
+     "a": 9,
+     "min": 2885
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "31",
@@ -2347,7 +4821,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 29,
-    "val": 14.0
+    "val": 14.0,
+    "stats": {
+     "m": 19,
+     "s": 4,
+     "g": 1,
+     "a": 1,
+     "min": 539
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "47",
@@ -2355,7 +4839,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 20,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 3,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 47
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -2363,7 +4857,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 30,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 55,
+     "s": 43,
+     "g": 21,
+     "a": 5,
+     "min": 3839
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -2371,7 +4875,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 16,
+     "s": 4,
+     "g": 3,
+     "a": 1,
+     "min": 437
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "39",
@@ -2379,7 +4893,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 17,
-    "val": 12.0
+    "val": 12.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "BAY": [
@@ -2389,7 +4907,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 20,
+     "s": 17,
+     "g": 0,
+     "a": 0,
+     "min": 1650
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "1",
@@ -2397,7 +4925,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 40,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 37,
+     "s": 37,
+     "g": 0,
+     "a": 0,
+     "min": 3210
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "26",
@@ -2405,7 +4943,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 38,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 90
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -2413,7 +4961,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 42,
+     "s": 39,
+     "g": 2,
+     "a": 3,
+     "min": 3341
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -2421,7 +4979,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 30,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 49,
+     "s": 43,
+     "g": 3,
+     "a": 2,
+     "min": 3769
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -2429,7 +4997,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 37,
+     "s": 23,
+     "g": 1,
+     "a": 1,
+     "min": 2051
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -2437,7 +5015,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 23,
+     "s": 11,
+     "g": 1,
+     "a": 2,
+     "min": 1049
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -2445,7 +5033,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 23,
-    "val": 50.0
+    "val": 50.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -2453,7 +5045,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 25,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 23,
+     "s": 8,
+     "g": 1,
+     "a": 5,
+     "min": 842
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "44",
@@ -2461,7 +5063,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 26,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 43,
+     "s": 35,
+     "g": 3,
+     "a": 7,
+     "min": 3153
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "27",
@@ -2469,7 +5081,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 29,
-    "val": 32.0
+    "val": 32.0,
+    "stats": {
+     "m": 47,
+     "s": 37,
+     "g": 3,
+     "a": 13,
+     "min": 3297
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -2477,7 +5099,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 15,
+     "s": 6,
+     "g": 0,
+     "a": 1,
+     "min": 630
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "45",
@@ -2485,7 +5117,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 22,
-    "val": 90.0
+    "val": 90.0,
+    "stats": {
+     "m": 44,
+     "s": 36,
+     "g": 4,
+     "a": 2,
+     "min": 3086
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -2493,7 +5135,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 31,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 49,
+     "s": 44,
+     "g": 2,
+     "a": 13,
+     "min": 4073
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "16",
@@ -2501,7 +5153,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 31,
-    "val": 15.0
+    "val": 15.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -2509,7 +5165,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 38,
+     "s": 17,
+     "g": 3,
+     "a": 3,
+     "min": 1655
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -2517,7 +5183,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 12
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "39",
@@ -2525,7 +5201,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 18,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 4,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 142
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -2533,7 +5219,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 24,
+     "s": 12,
+     "g": 5,
+     "a": 6,
+     "min": 1175
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "42",
@@ -2541,7 +5237,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 18,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 39,
+     "s": 24,
+     "g": 9,
+     "a": 8,
+     "min": 1918
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "34",
@@ -2549,7 +5255,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 25,
-    "val": 55.0
+    "val": 55.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -2557,7 +5267,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 29,
-    "val": 70.0
+    "val": 70.0,
+    "stats": {
+     "m": 51,
+     "s": 46,
+     "g": 26,
+     "a": 23,
+     "min": 4060
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -2565,7 +5285,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 20,
-    "val": 10.0
+    "val": 10.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -2573,7 +5297,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 24,
-    "val": 8.0
+    "val": 8.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -2581,7 +5309,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 24,
-    "val": 170.0
+    "val": 170.0,
+    "stats": {
+     "m": 52,
+     "s": 42,
+     "g": 22,
+     "a": 31,
+     "min": 4015
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -2589,7 +5327,17 @@
     "pos": "DA",
     "grp": "MID",
     "age": 31,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 37,
+     "s": 26,
+     "g": 10,
+     "a": 11,
+     "min": 2041
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -2597,7 +5345,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 33,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 51,
+     "s": 44,
+     "g": 61,
+     "a": 7,
+     "min": 4050
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "BVB": [
@@ -2607,7 +5365,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 28,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 47,
+     "s": 47,
+     "g": 0,
+     "a": 0,
+     "min": 4260
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "32",
@@ -2615,7 +5383,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 24,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "33",
@@ -2623,7 +5395,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 35,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -2631,7 +5413,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 33,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "31",
@@ -2639,7 +5431,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 22,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -2647,7 +5449,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 55.0
+    "val": 55.0,
+    "stats": {
+     "m": 37,
+     "s": 36,
+     "g": 5,
+     "a": 2,
+     "min": 3290
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -2655,7 +5467,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -2663,7 +5479,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 30,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 44,
+     "s": 44,
+     "g": 3,
+     "a": 0,
+     "min": 3927
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "49",
@@ -2671,7 +5497,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 18,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 9,
+     "s": 7,
+     "g": 1,
+     "a": 0,
+     "min": 603
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -2679,7 +5515,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 31,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 32,
+     "s": 25,
+     "g": 7,
+     "a": 3,
+     "min": 2396
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -2687,7 +5533,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 32,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 16,
+     "s": 10,
+     "g": 3,
+     "a": 0,
+     "min": 980
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "39",
@@ -2695,7 +5551,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 6,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 311
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -2703,7 +5569,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 45,
+     "s": 38,
+     "g": 4,
+     "a": 2,
+     "min": 3462
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "36",
@@ -2711,7 +5587,11 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 18,
-    "val": 10.0
+    "val": 10.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "26",
@@ -2719,7 +5599,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 28,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 42,
+     "s": 34,
+     "g": 0,
+     "a": 18,
+     "min": 3067
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "48",
@@ -2727,7 +5617,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 17,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -2735,7 +5635,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 55.0
+    "val": 55.0,
+    "stats": {
+     "m": 42,
+     "s": 36,
+     "g": 5,
+     "a": 3,
+     "min": 3137
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -2743,7 +5653,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 20,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 45,
+     "s": 29,
+     "g": 0,
+     "a": 4,
+     "min": 2665
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -2751,7 +5671,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 38,
+     "s": 10,
+     "g": 3,
+     "a": 2,
+     "min": 1225
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -2759,7 +5689,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 32,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 34,
+     "s": 27,
+     "g": 1,
+     "a": 4,
+     "min": 2347
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -2767,7 +5707,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 18,
-    "val": 35.0
+    "val": 35.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -2775,7 +5719,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 18,
-    "val": 3.2
+    "val": 3.2,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "41",
@@ -2783,7 +5731,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 17,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 2
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "40",
@@ -2791,7 +5749,17 @@
     "pos": "DA",
     "grp": "MID",
     "age": 18,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 7,
+     "s": 4,
+     "g": 1,
+     "a": 0,
+     "min": 383
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -2799,7 +5767,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 44,
+     "s": 33,
+     "g": 10,
+     "a": 10,
+     "min": 2736
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -2807,7 +5785,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 30,
-    "val": 32.0
+    "val": 32.0,
+    "stats": {
+     "m": 46,
+     "s": 37,
+     "g": 22,
+     "a": 6,
+     "min": 3222
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -2815,7 +5803,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 24,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 39,
+     "s": 10,
+     "g": 3,
+     "a": 7,
+     "min": 1181
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "JUV": [
@@ -2825,7 +5823,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 37,
+     "s": 36,
+     "g": 0,
+     "a": 0,
+     "min": 3285
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "1",
@@ -2833,7 +5841,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 33,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 14,
+     "s": 14,
+     "g": 0,
+     "a": 0,
+     "min": 1245
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -2841,7 +5859,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 36,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "3",
@@ -2849,7 +5877,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 31,
+     "s": 30,
+     "g": 4,
+     "a": 3,
+     "min": 2569
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -2857,7 +5895,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 32.0
+    "val": 32.0,
+    "stats": {
+     "m": 49,
+     "s": 49,
+     "g": 2,
+     "a": 7,
+     "min": 4381
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -2865,7 +5913,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 23.0
+    "val": 23.0,
+    "stats": {
+     "m": 46,
+     "s": 44,
+     "g": 2,
+     "a": 2,
+     "min": 3947
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -2873,7 +5931,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 14.0
+    "val": 14.0,
+    "stats": {
+     "m": 28,
+     "s": 18,
+     "g": 4,
+     "a": 0,
+     "min": 1656
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "24",
@@ -2881,7 +5949,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 32,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 8,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 350
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "27",
@@ -2889,7 +5967,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 26,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 47,
+     "s": 45,
+     "g": 3,
+     "a": 5,
+     "min": 3609
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "32",
@@ -2897,7 +5985,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 25,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 19,
+     "s": 5,
+     "g": 2,
+     "a": 1,
+     "min": 514
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -2905,7 +6003,11 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 29,
-    "val": 14.0
+    "val": 14.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -2913,7 +6015,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 28,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 47,
+     "s": 44,
+     "g": 3,
+     "a": 2,
+     "min": 3762
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -2921,7 +6033,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 28,
-    "val": 14.0
+    "val": 14.0,
+    "stats": {
+     "m": 45,
+     "s": 28,
+     "g": 2,
+     "a": 1,
+     "min": 2672
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "29",
@@ -2929,7 +6051,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 30,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -2937,7 +6063,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 38.0
+    "val": 38.0,
+    "stats": {
+     "m": 45,
+     "s": 38,
+     "g": 4,
+     "a": 5,
+     "min": 3136
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -2945,7 +6081,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 27,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 48,
+     "s": 44,
+     "g": 9,
+     "a": 8,
+     "min": 3921
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -2953,7 +6099,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 18.0
+    "val": 18.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -2961,7 +6111,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 31,
+     "s": 10,
+     "g": 1,
+     "a": 3,
+     "min": 945
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -2969,7 +6129,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
-    "val": 75.0
+    "val": 75.0,
+    "stats": {
+     "m": 47,
+     "s": 42,
+     "g": 11,
+     "a": 10,
+     "min": 3696
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -2977,7 +6147,11 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 18,
-    "val": 25.0
+    "val": 25.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -2985,7 +6159,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 28,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 17
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -2993,7 +6177,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 29,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 17,
+     "s": 6,
+     "g": 4,
+     "a": 1,
+     "min": 756
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -3001,7 +6195,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 23,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 42,
+     "s": 33,
+     "g": 4,
+     "a": 5,
+     "min": 2694
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -3009,7 +6213,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 27,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 27,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 525
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -3017,7 +6231,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 46,
+     "s": 27,
+     "g": 8,
+     "a": 5,
+     "min": 2329
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -3025,7 +6249,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 27,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -3033,7 +6261,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 19,
-    "val": 18.0
+    "val": 18.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -3041,7 +6273,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 32,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 34
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "INT": [
@@ -3051,7 +6293,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 28,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 11,
+     "s": 11,
+     "g": 0,
+     "a": 0,
+     "min": 990
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "49",
@@ -3059,7 +6311,11 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 32,
-    "val": 3.0
+    "val": 3.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -3067,7 +6323,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 32,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 9
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "95",
@@ -3075,7 +6341,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 65.0
+    "val": 65.0,
+    "stats": {
+     "m": 40,
+     "s": 39,
+     "g": 2,
+     "a": 6,
+     "min": 3197
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "31",
@@ -3083,7 +6359,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 36,
+     "s": 31,
+     "g": 3,
+     "a": 3,
+     "min": 2872
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "25",
@@ -3091,7 +6377,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 31,
-    "val": 17.0
+    "val": 17.0,
+    "stats": {
+     "m": 45,
+     "s": 40,
+     "g": 2,
+     "a": 0,
+     "min": 3707
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -3099,7 +6395,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 32,
-    "val": 12.0
+    "val": 12.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -3107,7 +6407,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 30,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 90
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "32",
@@ -3115,7 +6425,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 47,
+     "s": 41,
+     "g": 8,
+     "a": 18,
+     "min": 3659
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -3123,7 +6443,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 27,
-    "val": 23.0
+    "val": 23.0,
+    "stats": {
+     "m": 46,
+     "s": 26,
+     "g": 2,
+     "a": 2,
+     "min": 2512
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -3131,7 +6461,11 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 26,
-    "val": 40.0
+    "val": 40.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -3139,7 +6473,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 21,
-    "val": 32.0
+    "val": 32.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -3147,7 +6485,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 32,
-    "val": 16.0
+    "val": 16.0,
+    "stats": {
+     "m": 30,
+     "s": 27,
+     "g": 12,
+     "a": 7,
+     "min": 2137
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -3155,7 +6503,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 12.0
+    "val": 12.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -3163,7 +6515,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 29,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 45,
+     "s": 41,
+     "g": 3,
+     "a": 9,
+     "min": 3400
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -3171,7 +6533,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 50,
+     "s": 28,
+     "g": 4,
+     "a": 4,
+     "min": 2549
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -3179,7 +6551,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 29,
+     "s": 7,
+     "g": 4,
+     "a": 0,
+     "min": 823
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -3187,7 +6569,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 32,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 49,
+     "s": 33,
+     "g": 7,
+     "a": 4,
+     "min": 2991
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -3195,7 +6587,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 37,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 39,
+     "s": 22,
+     "g": 4,
+     "a": 3,
+     "min": 2070
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -3203,7 +6605,17 @@
     "pos": "MD",
     "grp": "MID",
     "age": 24,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 43,
+     "s": 25,
+     "g": 1,
+     "a": 3,
+     "min": 2253
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -3211,7 +6623,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 4.5
+    "val": 4.5,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -3219,7 +6635,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 85.0
+    "val": 85.0,
+    "stats": {
+     "m": 41,
+     "s": 35,
+     "g": 22,
+     "a": 6,
+     "min": 2767
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -3227,7 +6653,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 29,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 44,
+     "s": 35,
+     "g": 18,
+     "a": 9,
+     "min": 2884
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "94",
@@ -3235,7 +6671,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 21,
-    "val": 45.0
+    "val": 45.0,
+    "stats": {
+     "m": 48,
+     "s": 22,
+     "g": 10,
+     "a": 6,
+     "min": 2265
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -3243,7 +6689,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 22,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 48,
+     "s": 15,
+     "g": 7,
+     "a": 9,
+     "min": 1675
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "MIL": [
@@ -3253,7 +6709,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 31,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 41,
+     "s": 41,
+     "g": 0,
+     "a": 0,
+     "min": 3656
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "1",
@@ -3261,7 +6727,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 36,
-    "val": 0.9
+    "val": 0.9,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 124
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "96",
@@ -3269,7 +6745,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 21,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "31",
@@ -3277,7 +6763,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 38,
+     "s": 37,
+     "g": 5,
+     "a": 1,
+     "min": 3219
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "34",
@@ -3285,7 +6781,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 30.0
+    "val": 30.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -3293,7 +6793,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 23.0
+    "val": 23.0,
+    "stats": {
+     "m": 29,
+     "s": 22,
+     "g": 1,
+     "a": 1,
+     "min": 2047
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -3301,7 +6811,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 17.0
+    "val": 17.0,
+    "stats": {
+     "m": 37,
+     "s": 35,
+     "g": 0,
+     "a": 3,
+     "min": 2923
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "46",
@@ -3309,7 +6829,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 17.0
+    "val": 17.0,
+    "stats": {
+     "m": 31,
+     "s": 29,
+     "g": 0,
+     "a": 0,
+     "min": 2621
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "27",
@@ -3317,7 +6847,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 3,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 16
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "42",
@@ -3325,7 +6865,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 4.5
+    "val": 4.5,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -3333,7 +6877,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 2.0
+    "val": 2.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "33",
@@ -3341,7 +6889,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 33,
+     "s": 28,
+     "g": 2,
+     "a": 1,
+     "min": 2536
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "2",
@@ -3349,7 +6907,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 22,
+     "s": 16,
+     "g": 1,
+     "a": 1,
+     "min": 1303
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -3357,7 +6925,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 17,
+     "s": 9,
+     "g": 0,
+     "a": 1,
+     "min": 880
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -3365,7 +6943,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 27,
-    "val": 23.0
+    "val": 23.0,
+    "stats": {
+     "m": 36,
+     "s": 29,
+     "g": 2,
+     "a": 4,
+     "min": 2373
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -3373,7 +6961,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 34,
+     "s": 14,
+     "g": 1,
+     "a": 4,
+     "min": 1499
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "12",
@@ -3381,7 +6979,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 31,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 32,
+     "s": 31,
+     "g": 6,
+     "a": 5,
+     "min": 2820
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "80",
@@ -3389,7 +6997,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 14.0
+    "val": 14.0,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 114
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -3397,7 +7015,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 30,
-    "val": 8.5
+    "val": 8.5,
+    "stats": {
+     "m": 32,
+     "s": 16,
+     "g": 3,
+     "a": 1,
+     "min": 1453
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -3405,7 +7033,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "28",
@@ -3413,7 +7045,11 @@
     "pos": "MC",
     "grp": "MID",
     "age": 18,
-    "val": 5.0
+    "val": 5.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -3421,7 +7057,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 40,
-    "val": 3.5
+    "val": 3.5,
+    "stats": {
+     "m": 37,
+     "s": 32,
+     "g": 2,
+     "a": 3,
+     "min": 2864
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "56",
@@ -3429,7 +7075,17 @@
     "pos": "MD",
     "grp": "MID",
     "age": 27,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 39,
+     "s": 37,
+     "g": 3,
+     "a": 5,
+     "min": 3077
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "70",
@@ -3437,7 +7093,11 @@
     "pos": "MO",
     "grp": "MID",
     "age": 19,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "10",
@@ -3445,7 +7105,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 27,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 31,
+     "s": 25,
+     "g": 10,
+     "a": 3,
+     "min": 1968
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -3453,7 +7123,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 27,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 34,
+     "s": 20,
+     "g": 10,
+     "a": 4,
+     "min": 1806
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -3461,7 +7141,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 27,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 25
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "9",
@@ -3469,7 +7159,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 25,
-    "val": 50.0
+    "val": 50.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "18",
@@ -3477,7 +7171,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 35,
+     "s": 17,
+     "g": 8,
+     "a": 3,
+     "min": 1528
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -3485,7 +7189,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 25,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 18,
+     "s": 12,
+     "g": 1,
+     "a": 3,
+     "min": 1037
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "73",
@@ -3493,7 +7207,11 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 18,
-    "val": 15.0
+    "val": 15.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ],
   "NAP": [
@@ -3503,7 +7221,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 38,
+     "s": 38,
+     "g": 0,
+     "a": 1,
+     "min": 3420
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "1",
@@ -3511,7 +7239,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 12,
+     "s": 12,
+     "g": 0,
+     "a": 1,
+     "min": 1070
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "14",
@@ -3519,7 +7257,17 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 30,
-    "val": 0.4
+    "val": 0.4,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 10
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "4",
@@ -3527,7 +7275,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 42,
+     "s": 35,
+     "g": 0,
+     "a": 1,
+     "min": 3149
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "31",
@@ -3535,7 +7293,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 32,
+     "s": 25,
+     "g": 2,
+     "a": 0,
+     "min": 2214
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "16",
@@ -3543,7 +7311,11 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 12.0
+    "val": 12.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "13",
@@ -3551,7 +7323,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 32,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 27,
+     "s": 27,
+     "g": 2,
+     "a": 1,
+     "min": 2340
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "5",
@@ -3559,15 +7341,29 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 0,
+     "a": 1,
+     "min": 118
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
-    "n": "",
+    "n": "28",
     "p": "Nosa Edward Obaretin",
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 1.5
+    "val": 1.5,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -3575,7 +7371,17 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 0.25
+    "val": 0.25,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "17",
@@ -3583,7 +7389,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 33,
+     "s": 20,
+     "g": 0,
+     "a": 2,
+     "min": 1827
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "37",
@@ -3591,7 +7407,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 33,
-    "val": 3.5
+    "val": 3.5,
+    "stats": {
+     "m": 42,
+     "s": 30,
+     "g": 3,
+     "a": 5,
+     "min": 2599
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "22",
@@ -3599,7 +7425,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 33,
-    "val": 7.5
+    "val": 7.5,
+    "stats": {
+     "m": 35,
+     "s": 35,
+     "g": 2,
+     "a": 3,
+     "min": 3019
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "30",
@@ -3607,7 +7443,17 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 31,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 20,
+     "s": 4,
+     "g": 0,
+     "a": 1,
+     "min": 452
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "6",
@@ -3615,7 +7461,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 25,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 20,
+     "s": 9,
+     "g": 1,
+     "a": 0,
+     "min": 887
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "68",
@@ -3623,7 +7479,17 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 31,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 41,
+     "s": 38,
+     "g": 1,
+     "a": 1,
+     "min": 3213
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -3631,7 +7497,11 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 27,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "8",
@@ -3639,7 +7509,17 @@
     "pos": "MC",
     "grp": "MID",
     "age": 29,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 44,
+     "s": 41,
+     "g": 14,
+     "a": 4,
+     "min": 3701
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "99",
@@ -3647,15 +7527,29 @@
     "pos": "MC",
     "grp": "MID",
     "age": 30,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 22,
+     "s": 18,
+     "g": 4,
+     "a": 2,
+     "min": 1597
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
-    "n": "90",
+    "n": "24",
     "p": "Michael Folorunsho",
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 5.0
+    "val": 5.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "26",
@@ -3663,7 +7557,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 19,
+     "s": 12,
+     "g": 3,
+     "a": 4,
+     "min": 926
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "11",
@@ -3671,7 +7575,17 @@
     "pos": "MO",
     "grp": "MID",
     "age": 35,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 21,
+     "s": 16,
+     "g": 5,
+     "a": 4,
+     "min": 1360
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "27",
@@ -3679,7 +7593,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 23,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 15,
+     "s": 9,
+     "g": 4,
+     "a": 0,
+     "min": 866
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "70",
@@ -3687,7 +7611,17 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 27,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 27,
+     "s": 9,
+     "g": 1,
+     "a": 2,
+     "min": 977
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "7",
@@ -3695,7 +7629,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 29,
-    "val": 23.0
+    "val": 23.0,
+    "stats": {
+     "m": 25,
+     "s": 14,
+     "g": 6,
+     "a": 4,
+     "min": 1368
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "",
@@ -3703,7 +7647,11 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 26,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "21",
@@ -3711,7 +7659,17 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 33,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 44,
+     "s": 33,
+     "g": 2,
+     "a": 6,
+     "min": 2835
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "29",
@@ -3719,7 +7677,11 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 26,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "19",
@@ -3727,7 +7689,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 60.0
+    "val": 60.0,
+    "stats": {
+     "m": 44,
+     "s": 42,
+     "g": 16,
+     "a": 8,
+     "min": 3627
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "20",
@@ -3735,7 +7707,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 25,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 23,
+     "s": 6,
+     "g": 2,
+     "a": 0,
+     "min": 595
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "23",
@@ -3743,7 +7725,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 22,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 13,
+     "s": 3,
+     "g": 0,
+     "a": 2,
+     "min": 392
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    },
    {
     "n": "15",
@@ -3751,7 +7743,17 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
    }
   ]
  }
