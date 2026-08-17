@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-17T00:00:54",
- "sig": "153abc60df46a47beff3dcc6b5129216",
+ "updated": "2026-08-17T18:00:54",
+ "sig": "979708a179d36889edd476456d6b2448",
  "squads": {
   "FCB": [
    {
@@ -335,6 +335,24 @@
    },
    {
     "n": "",
+    "p": "Guille Fernández",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 18,
+    "val": 3.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
+   },
+   {
+    "n": "",
     "p": "Brian Fariñas",
     "pos": "MC",
     "grp": "MID",
@@ -346,7 +364,7 @@
     "valSince": "17/08/2026"
    },
    {
-    "n": "16",
+    "n": "7",
     "p": "Fermín López",
     "pos": "MO",
     "grp": "MID",
@@ -400,7 +418,7 @@
     "valSince": "17/08/2026"
    },
    {
-    "n": "17",
+    "n": "",
     "p": "Anthony Gordon",
     "pos": "AiG",
     "grp": "ATT",
@@ -1750,7 +1768,7 @@
     "valSince": "17/08/2026"
    },
    {
-    "n": "",
+    "n": "18",
     "p": "Jack Grealish",
     "pos": "AiG",
     "grp": "ATT",
@@ -1786,6 +1804,24 @@
      "g": 11,
      "a": 3,
      "min": 2025
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
+   },
+   {
+    "n": "56",
+    "p": "Ryan McAidoo",
+    "pos": "AiD",
+    "grp": "ATT",
+    "age": 18,
+    "val": 0.0,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 1,
+     "a": 0,
+     "min": 158
     },
     "statsClub": "",
     "valDelta": 0.0,
@@ -5160,6 +5196,24 @@
     "valSince": "17/08/2026"
    },
    {
+    "n": "47",
+    "p": "David Santos Daiber",
+    "pos": "MDC",
+    "grp": "MID",
+    "age": 19,
+    "val": 3.0,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 27
+    },
+    "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
+   },
+   {
     "n": "8",
     "p": "Tom Bischof",
     "pos": "MC",
@@ -5374,18 +5428,6 @@
      "min": 4260
     },
     "statsClub": "",
-    "valDelta": 0.0,
-    "valSince": "17/08/2026"
-   },
-   {
-    "n": "32",
-    "p": "Diant Ramaj",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 24,
-    "val": 7.0,
-    "stats": null,
-    "statsClub": null,
     "valDelta": 0.0,
     "valSince": "17/08/2026"
    },
@@ -5714,6 +5756,18 @@
     "valSince": "17/08/2026"
    },
    {
+    "n": "",
+    "p": "Giannis Konstantelias",
+    "pos": "MO",
+    "grp": "MID",
+    "age": 23,
+    "val": 22.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
+   },
+   {
     "n": "28",
     "p": "Justin Lerma",
     "pos": "MO",
@@ -5922,6 +5976,18 @@
      "min": 3947
     },
     "statsClub": "",
+    "valDelta": 0.0,
+    "valSince": "17/08/2026"
+   },
+   {
+    "n": "26",
+    "p": "Jhon Lucumí",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 28,
+    "val": 22.0,
+    "stats": null,
+    "statsClub": null,
     "valDelta": 0.0,
     "valSince": "17/08/2026"
    },
