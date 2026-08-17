@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-17T18:00:54",
- "sig": "979708a179d36889edd476456d6b2448",
+ "updated": "2026-08-17T21:02:09",
+ "sig": "638807c6862aa22f1d94d838d708aac2",
  "squads": {
   "FCB": [
    {
@@ -154,24 +154,6 @@
      "g": 0,
      "a": 3,
      "min": 2806
-    },
-    "statsClub": "",
-    "valDelta": 0.0,
-    "valSince": "17/08/2026"
-   },
-   {
-    "n": "",
-    "p": "Jofre Torrents",
-    "pos": "ArG",
-    "grp": "DEF",
-    "age": 19,
-    "val": 1.0,
-    "stats": {
-     "m": 4,
-     "s": 1,
-     "g": 0,
-     "a": 0,
-     "min": 110
     },
     "statsClub": "",
     "valDelta": 0.0,
@@ -1292,7 +1274,7 @@
     "valSince": "17/08/2026"
    },
    {
-    "n": "",
+    "n": "16",
     "p": "Arnau Ortiz",
     "pos": "AiG",
     "grp": "ATT",
