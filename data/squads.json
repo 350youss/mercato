@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-18T15:00:55",
- "sig": "67011b6b99d1a475a2179fb1ecd498d6",
+ "updated": "2026-08-18T18:01:12",
+ "sig": "a54bf73be39da198576b77fe0cae7c68",
  "squads": {
   "FCB": [
    {
@@ -3986,24 +3986,6 @@
   ],
   "TOT": [
    {
-    "n": "1",
-    "p": "Guglielmo Vicario",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 29,
-    "val": 18.0,
-    "stats": {
-     "m": 43,
-     "s": 42,
-     "g": 0,
-     "a": 0,
-     "min": 3853
-    },
-    "statsClub": "",
-    "valDelta": 0.0,
-    "valSince": "18/08/2026"
-   },
-   {
     "n": "31",
     "p": "Antonín Kinský",
     "pos": "GdB",
@@ -5866,6 +5848,18 @@
   ],
   "JUV": [
    {
+    "n": "25",
+    "p": "Guglielmo Vicario",
+    "pos": "GdB",
+    "grp": "GK",
+    "age": 29,
+    "val": 18.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "18/08/2026"
+   },
+   {
     "n": "16",
     "p": "Michele Di Gregorio",
     "pos": "GdB",
@@ -6902,24 +6896,6 @@
     "valSince": "18/08/2026"
    },
    {
-    "n": "27",
-    "p": "David Odogu",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 20,
-    "val": 5.0,
-    "stats": {
-     "m": 3,
-     "s": 0,
-     "g": 0,
-     "a": 0,
-     "min": 16
-    },
-    "statsClub": "",
-    "valDelta": 0.0,
-    "valSince": "18/08/2026"
-   },
-   {
     "n": "42",
     "p": "Filippo Terracciano",
     "pos": "DC",
@@ -7268,6 +7244,18 @@
     "grp": "ATT",
     "age": 18,
     "val": 15.0,
+    "stats": null,
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "18/08/2026"
+   },
+   {
+    "n": "",
+    "p": "Andrej Kostić",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 19,
+    "val": 5.0,
     "stats": null,
     "statsClub": null,
     "valDelta": 0.0,
